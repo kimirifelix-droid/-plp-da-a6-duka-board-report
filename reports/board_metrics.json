@@ -1,0 +1,19 @@
+{
+  "period": "2026-01-01 to 2026-06-30",
+  "records": 1000,
+  "distinct_orders": 1000,
+  "total_revenue_kes": 81391500.0,
+  "average_revenue_per_order_kes": 81391.5,
+  "january_revenue_kes": 15786500.0,
+  "june_revenue_kes": 10700000.0,
+  "january_to_june_change_pct": -32.22,
+  "top_product": "Laptop",
+  "top_product_revenue_kes": 36125000.0,
+  "top_product_revenue_share_pct": 44.38,
+  "top_city": "Nairobi",
+  "top_city_revenue_kes": 24652000.0,
+  "top_city_revenue_share_pct": 30.29,
+  "top_channel": "Online",
+  "top_channel_revenue_kes": 44753000.0,
+  "top_channel_revenue_share_pct": 54.98
+}

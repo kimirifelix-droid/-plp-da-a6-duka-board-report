@@ -1,0 +1,8 @@
+{
+  "period_start": "2026-01-01",
+  "period_end": "2026-06-30",
+  "records": 1000,
+  "distinct_orders": 1000,
+  "total_revenue_kes": 81391500.0,
+  "average_revenue_per_order_kes": 81391.5
+}

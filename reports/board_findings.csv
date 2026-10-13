@@ -1,0 +1,10 @@
+category,metric,value,unit,interpretation
+Overall,Total revenue,81391500.0,KES,Revenue across all records
+Overall,Distinct orders,1000,orders,Unique order IDs
+Overall,Average revenue per order,81391.5,KES/order,Total revenue divided by distinct orders
+Monthly,Highest revenue month,2026-01,,Month with highest recorded revenue
+Monthly,Lowest revenue month,2026-06,,Month with lowest recorded revenue
+Product,Leading product,Laptop,,"Revenue: KES 36,125,000.00"
+Channel,Leading channel,Online,,"Revenue: KES 44,753,000.00"
+Branch,Leading branch,Nairobi,,"Revenue: KES 24,652,000.00"
+Region,Leading region,Rift Valley,,"Revenue: KES 26,480,000.00"

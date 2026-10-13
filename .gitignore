@@ -1,0 +1,9 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+gallery_images/
+notebook_check.html
+notebook_check.md

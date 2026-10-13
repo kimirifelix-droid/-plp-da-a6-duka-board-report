@@ -1,0 +1,1001 @@
+order_id,order_date,branch,product,quantity,customer_tier,channel,unit_price,city,region
+DUK-0891,2026-01-01,Eldoret,Laptop,3,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0417,2026-01-01,Mombasa,Tablet,5,Standard,Store,30000,Mombasa,Coast
+DUK-0104,2026-01-01,Mombasa,Headphones,5,Premium,Online,5000,Mombasa,Coast
+DUK-0187,2026-01-01,Eldoret,Mouse,4,Standard,Store,2000,Eldoret,Rift Valley
+DUK-0336,2026-01-01,Mombasa,Keyboard,3,Premium,Store,3500,Mombasa,Coast
+DUK-0606,2026-01-01,Mombasa,Keyboard,5,Standard,Store,3500,Mombasa,Coast
+DUK-0979,2026-01-01,Nakuru,Monitor,4,Premium,Store,22000,Nakuru,Rift Valley
+DUK-0480,2026-01-02,Nakuru,Headphones,2,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0001,2026-01-02,Kisumu,Printer,5,Standard,Online,18000,Kisumu,Western
+DUK-0756,2026-01-03,Kisumu,Keyboard,3,Premium,Store,3500,Kisumu,Western
+DUK-0076,2026-01-03,Eldoret,Laptop,2,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0888,2026-01-03,Eldoret,Smartphone,4,Premium,Online,45000,Eldoret,Rift Valley
+DUK-0649,2026-01-04,Mombasa,Smartphone,3,Standard,Store,45000,Mombasa,Coast
+DUK-0034,2026-01-04,Kisumu,Monitor,3,Standard,Online,22000,Kisumu,Western
+DUK-0895,2026-01-04,Nakuru,Printer,3,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0523,2026-01-04,Nairobi,Laptop,5,Standard,Store,85000,Nairobi,Central
+DUK-0468,2026-01-04,Nairobi,Keyboard,2,Premium,Store,3500,Nairobi,Central
+DUK-0440,2026-01-04,Eldoret,Headphones,5,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0914,2026-01-04,Nairobi,Laptop,2,Standard,Online,85000,Nairobi,Central
+DUK-0836,2026-01-04,Eldoret,Tablet,2,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0945,2026-01-04,Eldoret,Smartphone,2,Premium,Store,45000,Eldoret,Rift Valley
+DUK-0043,2026-01-04,Mombasa,Monitor,2,Standard,Online,22000,Mombasa,Coast
+DUK-0348,2026-01-04,Kisumu,Monitor,2,Standard,Store,22000,Kisumu,Western
+DUK-0968,2026-01-04,Kisumu,Smartphone,4,Standard,Online,45000,Kisumu,Western
+DUK-0260,2026-01-05,Nakuru,Keyboard,3,Premium,Online,3500,Nakuru,Rift Valley
+DUK-0992,2026-01-05,Mombasa,Smartphone,4,Standard,Store,45000,Mombasa,Coast
+DUK-0676,2026-01-05,Kisumu,Mouse,5,Premium,Store,2000,Kisumu,Western
+DUK-0405,2026-01-05,Nakuru,Smartphone,3,Standard,Store,45000,Nakuru,Rift Valley
+DUK-0881,2026-01-05,Nakuru,Headphones,2,Standard,Store,5000,Nakuru,Rift Valley
+DUK-0970,2026-01-05,Mombasa,Mouse,3,Standard,Store,2000,Mombasa,Coast
+DUK-0234,2026-01-05,Kisumu,Keyboard,4,Standard,Online,3500,Kisumu,Western
+DUK-0828,2026-01-06,Mombasa,Headphones,1,Standard,Online,5000,Mombasa,Coast
+DUK-0851,2026-01-06,Nairobi,Smartphone,1,Standard,Store,45000,Nairobi,Central
+DUK-0599,2026-01-06,Nairobi,Headphones,4,Standard,Online,5000,Nairobi,Central
+DUK-0450,2026-01-06,Nakuru,Keyboard,1,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0814,2026-01-06,Nairobi,Printer,3,Standard,Store,18000,Nairobi,Central
+DUK-0959,2026-01-07,Nairobi,Headphones,1,Standard,Store,5000,Nairobi,Central
+DUK-0861,2026-01-07,Nairobi,Laptop,4,Standard,Online,85000,Nairobi,Central
+DUK-0920,2026-01-07,Mombasa,Smartphone,1,Standard,Store,45000,Mombasa,Coast
+DUK-0974,2026-01-07,Nairobi,Headphones,1,Standard,Online,5000,Nairobi,Central
+DUK-0837,2026-01-07,Kisumu,Laptop,4,Premium,Store,85000,Kisumu,Western
+DUK-0387,2026-01-07,Nakuru,Headphones,1,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0411,2026-01-08,Eldoret,Tablet,4,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0711,2026-01-08,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0013,2026-01-08,Nakuru,Keyboard,2,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0644,2026-01-09,Nakuru,Laptop,5,Premium,Store,85000,Nakuru,Rift Valley
+DUK-0207,2026-01-09,Eldoret,Keyboard,3,Standard,Store,3500,Eldoret,Rift Valley
+DUK-0136,2026-01-09,Nakuru,Keyboard,5,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0094,2026-01-09,Eldoret,Laptop,4,Premium,Online,85000,Eldoret,Rift Valley
+DUK-0904,2026-01-09,Nairobi,Monitor,5,Standard,Store,22000,Nairobi,Central
+DUK-0499,2026-01-09,Eldoret,Printer,4,Premium,Store,18000,Eldoret,Rift Valley
+DUK-0916,2026-01-10,Nakuru,Printer,3,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0228,2026-01-10,Nairobi,Printer,2,Premium,Online,18000,Nairobi,Central
+DUK-0632,2026-01-10,Eldoret,Smartphone,4,Standard,Store,45000,Eldoret,Rift Valley
+DUK-0840,2026-01-10,Nairobi,Laptop,5,Standard,Online,85000,Nairobi,Central
+DUK-0923,2026-01-10,Kisumu,Printer,5,Premium,Online,18000,Kisumu,Western
+DUK-0302,2026-01-10,Eldoret,Mouse,1,Standard,Online,2000,Eldoret,Rift Valley
+DUK-0222,2026-01-10,Nairobi,Headphones,5,Premium,Online,5000,Nairobi,Central
+DUK-0165,2026-01-10,Mombasa,Printer,1,Standard,Store,18000,Mombasa,Coast
+DUK-0406,2026-01-10,Kisumu,Headphones,5,Standard,Store,5000,Kisumu,Western
+DUK-0198,2026-01-10,Mombasa,Laptop,1,Premium,Store,85000,Mombasa,Coast
+DUK-0581,2026-01-10,Mombasa,Headphones,4,Standard,Online,5000,Mombasa,Coast
+DUK-0326,2026-01-11,Kisumu,Mouse,4,Standard,Store,2000,Kisumu,Western
+DUK-0557,2026-01-11,Kisumu,Tablet,2,Standard,Online,30000,Kisumu,Western
+DUK-0509,2026-01-11,Nairobi,Tablet,4,Premium,Online,30000,Nairobi,Central
+DUK-0490,2026-01-11,Nakuru,Monitor,1,Standard,Online,22000,Nakuru,Rift Valley
+DUK-0313,2026-01-11,Nakuru,Tablet,4,Standard,Online,30000,Nakuru,Rift Valley
+DUK-0775,2026-01-11,Nakuru,Smartphone,4,Standard,Online,45000,Nakuru,Rift Valley
+DUK-0116,2026-01-11,Kisumu,Keyboard,1,Standard,Online,3500,Kisumu,Western
+DUK-0770,2026-01-12,Nakuru,Headphones,2,Standard,Store,5000,Nakuru,Rift Valley
+DUK-0994,2026-01-12,Mombasa,Keyboard,5,Premium,Online,3500,Mombasa,Coast
+DUK-0962,2026-01-12,Kisumu,Printer,1,Standard,Online,18000,Kisumu,Western
+DUK-0735,2026-01-12,Nairobi,Mouse,1,Standard,Online,2000,Nairobi,Central
+DUK-0866,2026-01-12,Nairobi,Headphones,2,Premium,Online,5000,Nairobi,Central
+DUK-0154,2026-01-12,Nairobi,Printer,3,Standard,Online,18000,Nairobi,Central
+DUK-0380,2026-01-12,Nairobi,Smartphone,2,Standard,Store,45000,Nairobi,Central
+DUK-0541,2026-01-12,Nairobi,Laptop,2,Standard,Online,85000,Nairobi,Central
+DUK-0990,2026-01-12,Kisumu,Printer,1,Standard,Online,18000,Kisumu,Western
+DUK-0402,2026-01-13,Nairobi,Laptop,1,Standard,Online,85000,Nairobi,Central
+DUK-0947,2026-01-13,Eldoret,Mouse,3,Premium,Online,2000,Eldoret,Rift Valley
+DUK-0363,2026-01-13,Nairobi,Laptop,5,Premium,Online,85000,Nairobi,Central
+DUK-0379,2026-01-13,Eldoret,Laptop,2,Premium,Store,85000,Eldoret,Rift Valley
+DUK-0160,2026-01-14,Nakuru,Smartphone,1,Premium,Store,45000,Nakuru,Rift Valley
+DUK-0364,2026-01-14,Nairobi,Mouse,3,Standard,Online,2000,Nairobi,Central
+DUK-0089,2026-01-14,Nakuru,Printer,4,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0804,2026-01-14,Nairobi,Headphones,3,Standard,Store,5000,Nairobi,Central
+DUK-0263,2026-01-14,Nakuru,Laptop,4,Standard,Store,85000,Nakuru,Rift Valley
+DUK-0869,2026-01-14,Nakuru,Monitor,4,Standard,Online,22000,Nakuru,Rift Valley
+DUK-0856,2026-01-14,Nairobi,Laptop,4,Standard,Store,85000,Nairobi,Central
+DUK-0656,2026-01-15,Kisumu,Mouse,2,Premium,Online,2000,Kisumu,Western
+DUK-0465,2026-01-15,Kisumu,Laptop,3,Premium,Store,85000,Kisumu,Western
+DUK-0081,2026-01-15,Kisumu,Laptop,4,Standard,Store,85000,Kisumu,Western
+DUK-0951,2026-01-15,Nairobi,Smartphone,5,Premium,Online,45000,Nairobi,Central
+DUK-0056,2026-01-15,Nairobi,Tablet,4,Standard,Store,30000,Nairobi,Central
+DUK-0195,2026-01-15,Eldoret,Tablet,5,Premium,Store,30000,Eldoret,Rift Valley
+DUK-0721,2026-01-15,Kisumu,Tablet,1,Standard,Online,30000,Kisumu,Western
+DUK-0677,2026-01-16,Nakuru,Smartphone,1,Standard,Online,45000,Nakuru,Rift Valley
+DUK-0909,2026-01-16,Mombasa,Keyboard,5,Standard,Store,3500,Mombasa,Coast
+DUK-0424,2026-01-16,Nakuru,Smartphone,2,Standard,Store,45000,Nakuru,Rift Valley
+DUK-0456,2026-01-16,Mombasa,Headphones,2,Premium,Online,5000,Mombasa,Coast
+DUK-0464,2026-01-16,Kisumu,Smartphone,2,Standard,Online,45000,Kisumu,Western
+DUK-0189,2026-01-16,Nairobi,Headphones,3,Premium,Store,5000,Nairobi,Central
+DUK-0949,2026-01-16,Nakuru,Mouse,3,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0110,2026-01-17,Kisumu,Keyboard,3,Standard,Online,3500,Kisumu,Western
+DUK-0328,2026-01-17,Eldoret,Keyboard,4,Standard,Online,3500,Eldoret,Rift Valley
+DUK-0897,2026-01-17,Kisumu,Keyboard,4,Standard,Online,3500,Kisumu,Western
+DUK-0318,2026-01-17,Kisumu,Laptop,4,Premium,Online,85000,Kisumu,Western
+DUK-0416,2026-01-18,Eldoret,Monitor,3,Standard,Online,22000,Eldoret,Rift Valley
+DUK-0025,2026-01-18,Mombasa,Tablet,5,Standard,Store,30000,Mombasa,Coast
+DUK-0325,2026-01-18,Mombasa,Keyboard,3,Premium,Online,3500,Mombasa,Coast
+DUK-0892,2026-01-18,Nairobi,Headphones,1,Standard,Store,5000,Nairobi,Central
+DUK-0845,2026-01-19,Nairobi,Mouse,1,Standard,Online,2000,Nairobi,Central
+DUK-0908,2026-01-19,Nairobi,Headphones,2,Standard,Store,5000,Nairobi,Central
+DUK-0366,2026-01-19,Nakuru,Laptop,1,Standard,Online,85000,Nakuru,Rift Valley
+DUK-0256,2026-01-20,Kisumu,Printer,5,Premium,Store,18000,Kisumu,Western
+DUK-0075,2026-01-20,Nairobi,Keyboard,4,Standard,Store,3500,Nairobi,Central
+DUK-0824,2026-01-20,Nakuru,Printer,5,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0211,2026-01-20,Kisumu,Mouse,4,Standard,Online,2000,Kisumu,Western
+DUK-0709,2026-01-20,Mombasa,Mouse,4,Standard,Store,2000,Mombasa,Coast
+DUK-0293,2026-01-20,Nakuru,Keyboard,3,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0678,2026-01-21,Nakuru,Keyboard,1,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0060,2026-01-21,Nakuru,Keyboard,4,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0410,2026-01-21,Mombasa,Laptop,1,Standard,Store,85000,Mombasa,Coast
+DUK-0393,2026-01-21,Nairobi,Mouse,4,Standard,Store,2000,Nairobi,Central
+DUK-0975,2026-01-21,Nakuru,Monitor,2,Premium,Store,22000,Nakuru,Rift Valley
+DUK-0117,2026-01-21,Kisumu,Smartphone,3,Standard,Store,45000,Kisumu,Western
+DUK-0577,2026-01-21,Mombasa,Smartphone,1,Standard,Store,45000,Mombasa,Coast
+DUK-0448,2026-01-21,Nairobi,Tablet,2,Standard,Store,30000,Nairobi,Central
+DUK-0324,2026-01-21,Eldoret,Laptop,4,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0696,2026-01-22,Kisumu,Keyboard,4,Standard,Online,3500,Kisumu,Western
+DUK-0281,2026-01-22,Eldoret,Tablet,4,Standard,Online,30000,Eldoret,Rift Valley
+DUK-0531,2026-01-22,Mombasa,Monitor,1,Premium,Store,22000,Mombasa,Coast
+DUK-0889,2026-01-22,Nairobi,Monitor,2,Standard,Store,22000,Nairobi,Central
+DUK-0085,2026-01-22,Mombasa,Mouse,5,Standard,Store,2000,Mombasa,Coast
+DUK-0530,2026-01-23,Nairobi,Headphones,1,Standard,Online,5000,Nairobi,Central
+DUK-0913,2026-01-23,Mombasa,Printer,1,Standard,Store,18000,Mombasa,Coast
+DUK-0635,2026-01-23,Nairobi,Keyboard,2,Standard,Online,3500,Nairobi,Central
+DUK-0050,2026-01-23,Kisumu,Tablet,4,Premium,Online,30000,Kisumu,Western
+DUK-0472,2026-01-23,Eldoret,Keyboard,1,Standard,Online,3500,Eldoret,Rift Valley
+DUK-0224,2026-01-23,Mombasa,Laptop,4,Standard,Online,85000,Mombasa,Coast
+DUK-0102,2026-01-23,Eldoret,Mouse,4,Standard,Online,2000,Eldoret,Rift Valley
+DUK-0907,2026-01-23,Kisumu,Mouse,1,Standard,Store,2000,Kisumu,Western
+DUK-0266,2026-01-23,Eldoret,Smartphone,3,Standard,Store,45000,Eldoret,Rift Valley
+DUK-0687,2026-01-23,Eldoret,Headphones,5,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0699,2026-01-24,Nakuru,Tablet,3,Premium,Online,30000,Nakuru,Rift Valley
+DUK-0927,2026-01-24,Mombasa,Headphones,1,Premium,Online,5000,Mombasa,Coast
+DUK-0899,2026-01-24,Nairobi,Mouse,3,Premium,Online,2000,Nairobi,Central
+DUK-0736,2026-01-24,Nairobi,Tablet,1,Standard,Online,30000,Nairobi,Central
+DUK-0782,2026-01-24,Kisumu,Smartphone,5,Premium,Online,45000,Kisumu,Western
+DUK-0573,2026-01-25,Nakuru,Printer,3,Standard,Online,18000,Nakuru,Rift Valley
+DUK-0890,2026-01-25,Nairobi,Smartphone,5,Standard,Store,45000,Nairobi,Central
+DUK-0583,2026-01-25,Kisumu,Headphones,5,Premium,Online,5000,Kisumu,Western
+DUK-0300,2026-01-25,Kisumu,Monitor,5,Standard,Online,22000,Kisumu,Western
+DUK-0749,2026-01-25,Nairobi,Printer,3,Standard,Online,18000,Nairobi,Central
+DUK-0497,2026-01-25,Kisumu,Laptop,3,Standard,Store,85000,Kisumu,Western
+DUK-0203,2026-01-26,Mombasa,Tablet,4,Premium,Online,30000,Mombasa,Coast
+DUK-0151,2026-01-26,Mombasa,Keyboard,5,Standard,Store,3500,Mombasa,Coast
+DUK-0021,2026-01-26,Nairobi,Laptop,5,Standard,Online,85000,Nairobi,Central
+DUK-0003,2026-01-27,Kisumu,Monitor,4,Standard,Online,22000,Kisumu,Western
+DUK-0389,2026-01-27,Kisumu,Printer,4,Standard,Online,18000,Kisumu,Western
+DUK-0645,2026-01-27,Kisumu,Headphones,3,Standard,Store,5000,Kisumu,Western
+DUK-0657,2026-01-27,Nakuru,Monitor,1,Standard,Online,22000,Nakuru,Rift Valley
+DUK-0220,2026-01-27,Nakuru,Laptop,1,Premium,Online,85000,Nakuru,Rift Valley
+DUK-0763,2026-01-28,Mombasa,Smartphone,4,Standard,Online,45000,Mombasa,Coast
+DUK-0685,2026-01-28,Mombasa,Monitor,4,Standard,Store,22000,Mombasa,Coast
+DUK-0012,2026-01-28,Mombasa,Tablet,4,Premium,Online,30000,Mombasa,Coast
+DUK-0917,2026-01-28,Mombasa,Mouse,4,Premium,Store,2000,Mombasa,Coast
+DUK-0415,2026-01-28,Mombasa,Tablet,5,Standard,Store,30000,Mombasa,Coast
+DUK-0813,2026-01-29,Nairobi,Printer,5,Standard,Online,18000,Nairobi,Central
+DUK-0010,2026-01-29,Nairobi,Tablet,4,Premium,Online,30000,Nairobi,Central
+DUK-0519,2026-01-29,Nairobi,Headphones,4,Standard,Store,5000,Nairobi,Central
+DUK-0784,2026-01-29,Nakuru,Mouse,2,Standard,Store,2000,Nakuru,Rift Valley
+DUK-0821,2026-01-29,Eldoret,Laptop,5,Premium,Store,85000,Eldoret,Rift Valley
+DUK-0812,2026-01-30,Nakuru,Mouse,4,Standard,Store,2000,Nakuru,Rift Valley
+DUK-0271,2026-01-30,Nairobi,Laptop,3,Standard,Store,85000,Nairobi,Central
+DUK-0744,2026-01-30,Mombasa,Keyboard,3,Premium,Store,3500,Mombasa,Coast
+DUK-0006,2026-01-30,Kisumu,Headphones,2,Premium,Online,5000,Kisumu,Western
+DUK-0672,2026-01-30,Mombasa,Printer,5,Standard,Online,18000,Mombasa,Coast
+DUK-0157,2026-01-31,Nakuru,Mouse,2,Premium,Online,2000,Nakuru,Rift Valley
+DUK-0452,2026-01-31,Kisumu,Printer,2,Standard,Online,18000,Kisumu,Western
+DUK-0755,2026-01-31,Kisumu,Printer,4,Standard,Online,18000,Kisumu,Western
+DUK-0358,2026-02-01,Kisumu,Keyboard,3,Standard,Online,3500,Kisumu,Western
+DUK-0333,2026-02-01,Nairobi,Tablet,4,Standard,Store,30000,Nairobi,Central
+DUK-0175,2026-02-01,Nairobi,Laptop,3,Premium,Online,85000,Nairobi,Central
+DUK-0825,2026-02-01,Mombasa,Smartphone,4,Premium,Store,45000,Mombasa,Coast
+DUK-0733,2026-02-01,Nairobi,Monitor,4,Premium,Store,22000,Nairobi,Central
+DUK-0537,2026-02-01,Mombasa,Smartphone,4,Premium,Store,45000,Mombasa,Coast
+DUK-0058,2026-02-02,Eldoret,Printer,5,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0255,2026-02-02,Mombasa,Headphones,4,Premium,Online,5000,Mombasa,Coast
+DUK-0046,2026-02-02,Nairobi,Mouse,2,Standard,Store,2000,Nairobi,Central
+DUK-0412,2026-02-02,Nairobi,Laptop,3,Standard,Online,85000,Nairobi,Central
+DUK-0248,2026-02-02,Eldoret,Tablet,5,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0106,2026-02-02,Nairobi,Mouse,4,Standard,Online,2000,Nairobi,Central
+DUK-0695,2026-02-02,Nairobi,Mouse,4,Premium,Online,2000,Nairobi,Central
+DUK-0063,2026-02-02,Mombasa,Headphones,2,Standard,Online,5000,Mombasa,Coast
+DUK-0734,2026-02-02,Nairobi,Printer,4,Standard,Online,18000,Nairobi,Central
+DUK-0086,2026-02-03,Nakuru,Smartphone,4,Standard,Online,45000,Nakuru,Rift Valley
+DUK-0457,2026-02-03,Kisumu,Tablet,4,Standard,Online,30000,Kisumu,Western
+DUK-0903,2026-02-03,Eldoret,Mouse,5,Standard,Store,2000,Eldoret,Rift Valley
+DUK-0429,2026-02-03,Eldoret,Laptop,3,Standard,Store,85000,Eldoret,Rift Valley
+DUK-0739,2026-02-03,Kisumu,Headphones,4,Standard,Store,5000,Kisumu,Western
+DUK-0854,2026-02-04,Nairobi,Headphones,1,Standard,Online,5000,Nairobi,Central
+DUK-0439,2026-02-04,Eldoret,Tablet,5,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0392,2026-02-04,Nairobi,Printer,4,Premium,Store,18000,Nairobi,Central
+DUK-0201,2026-02-04,Nakuru,Keyboard,5,Premium,Online,3500,Nakuru,Rift Valley
+DUK-0446,2026-02-04,Nakuru,Keyboard,1,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0995,2026-02-05,Nakuru,Headphones,4,Premium,Store,5000,Nakuru,Rift Valley
+DUK-0586,2026-02-05,Mombasa,Laptop,4,Premium,Online,85000,Mombasa,Coast
+DUK-0349,2026-02-05,Mombasa,Printer,1,Standard,Online,18000,Mombasa,Coast
+DUK-0040,2026-02-05,Nairobi,Keyboard,2,Standard,Online,3500,Nairobi,Central
+DUK-0737,2026-02-05,Mombasa,Tablet,2,Standard,Store,30000,Mombasa,Coast
+DUK-0999,2026-02-05,Mombasa,Headphones,4,Standard,Online,5000,Mombasa,Coast
+DUK-0475,2026-02-05,Mombasa,Monitor,5,Standard,Online,22000,Mombasa,Coast
+DUK-0095,2026-02-05,Kisumu,Monitor,4,Standard,Store,22000,Kisumu,Western
+DUK-0673,2026-02-05,Kisumu,Printer,3,Standard,Store,18000,Kisumu,Western
+DUK-0479,2026-02-06,Kisumu,Monitor,3,Standard,Online,22000,Kisumu,Western
+DUK-0552,2026-02-06,Nakuru,Laptop,4,Premium,Online,85000,Nakuru,Rift Valley
+DUK-0941,2026-02-06,Mombasa,Mouse,3,Premium,Online,2000,Mombasa,Coast
+DUK-0212,2026-02-06,Nairobi,Mouse,4,Standard,Online,2000,Nairobi,Central
+DUK-0886,2026-02-06,Nakuru,Tablet,5,Standard,Online,30000,Nakuru,Rift Valley
+DUK-0035,2026-02-06,Nakuru,Tablet,3,Standard,Store,30000,Nakuru,Rift Valley
+DUK-0156,2026-02-06,Mombasa,Headphones,1,Standard,Online,5000,Mombasa,Coast
+DUK-0661,2026-02-07,Mombasa,Headphones,4,Standard,Store,5000,Mombasa,Coast
+DUK-0787,2026-02-07,Nakuru,Printer,3,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0681,2026-02-07,Nairobi,Headphones,5,Standard,Store,5000,Nairobi,Central
+DUK-0453,2026-02-07,Mombasa,Mouse,1,Premium,Online,2000,Mombasa,Coast
+DUK-0020,2026-02-08,Eldoret,Keyboard,2,Standard,Store,3500,Eldoret,Rift Valley
+DUK-0776,2026-02-08,Mombasa,Smartphone,1,Premium,Online,45000,Mombasa,Coast
+DUK-0767,2026-02-08,Mombasa,Tablet,1,Standard,Store,30000,Mombasa,Coast
+DUK-0045,2026-02-08,Eldoret,Mouse,4,Premium,Online,2000,Eldoret,Rift Valley
+DUK-0501,2026-02-08,Mombasa,Keyboard,4,Standard,Online,3500,Mombasa,Coast
+DUK-0278,2026-02-08,Kisumu,Keyboard,4,Standard,Online,3500,Kisumu,Western
+DUK-0100,2026-02-08,Mombasa,Mouse,1,Standard,Online,2000,Mombasa,Coast
+DUK-0565,2026-02-08,Nairobi,Keyboard,3,Standard,Store,3500,Nairobi,Central
+DUK-0868,2026-02-08,Nairobi,Mouse,3,Premium,Store,2000,Nairobi,Central
+DUK-0561,2026-02-08,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0679,2026-02-08,Eldoret,Headphones,4,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0390,2026-02-08,Eldoret,Tablet,2,Standard,Online,30000,Eldoret,Rift Valley
+DUK-0191,2026-02-09,Kisumu,Keyboard,5,Premium,Store,3500,Kisumu,Western
+DUK-0823,2026-02-09,Kisumu,Monitor,2,Standard,Online,22000,Kisumu,Western
+DUK-0978,2026-02-09,Eldoret,Keyboard,3,Standard,Store,3500,Eldoret,Rift Valley
+DUK-0367,2026-02-10,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0033,2026-02-10,Nakuru,Tablet,5,Standard,Store,30000,Nakuru,Rift Valley
+DUK-0898,2026-02-10,Eldoret,Printer,1,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0741,2026-02-11,Eldoret,Monitor,5,Premium,Store,22000,Eldoret,Rift Valley
+DUK-0641,2026-02-11,Nairobi,Keyboard,2,Standard,Online,3500,Nairobi,Central
+DUK-0441,2026-02-11,Nairobi,Tablet,5,Premium,Online,30000,Nairobi,Central
+DUK-0141,2026-02-11,Kisumu,Smartphone,4,Standard,Online,45000,Kisumu,Western
+DUK-0955,2026-02-12,Nakuru,Keyboard,4,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0839,2026-02-12,Nairobi,Printer,1,Standard,Online,18000,Nairobi,Central
+DUK-0487,2026-02-12,Eldoret,Monitor,5,Standard,Online,22000,Eldoret,Rift Valley
+DUK-0369,2026-02-12,Eldoret,Laptop,1,Premium,Store,85000,Eldoret,Rift Valley
+DUK-0291,2026-02-12,Mombasa,Printer,5,Standard,Online,18000,Mombasa,Coast
+DUK-0973,2026-02-12,Eldoret,Monitor,3,Standard,Store,22000,Eldoret,Rift Valley
+DUK-0269,2026-02-13,Eldoret,Headphones,1,Standard,Store,5000,Eldoret,Rift Valley
+DUK-0068,2026-02-13,Nairobi,Keyboard,3,Standard,Store,3500,Nairobi,Central
+DUK-0243,2026-02-13,Mombasa,Tablet,2,Standard,Store,30000,Mombasa,Coast
+DUK-0865,2026-02-13,Mombasa,Printer,2,Premium,Online,18000,Mombasa,Coast
+DUK-0718,2026-02-13,Eldoret,Mouse,5,Premium,Store,2000,Eldoret,Rift Valley
+DUK-0616,2026-02-14,Mombasa,Printer,4,Standard,Online,18000,Mombasa,Coast
+DUK-0766,2026-02-14,Mombasa,Keyboard,1,Standard,Store,3500,Mombasa,Coast
+DUK-0713,2026-02-14,Eldoret,Keyboard,2,Standard,Online,3500,Eldoret,Rift Valley
+DUK-1000,2026-02-14,Mombasa,Headphones,3,Standard,Online,5000,Mombasa,Coast
+DUK-0378,2026-02-15,Nairobi,Tablet,2,Standard,Online,30000,Nairobi,Central
+DUK-0216,2026-02-15,Nakuru,Headphones,1,Premium,Store,5000,Nakuru,Rift Valley
+DUK-0420,2026-02-15,Kisumu,Headphones,1,Standard,Online,5000,Kisumu,Western
+DUK-0178,2026-02-15,Eldoret,Laptop,3,Premium,Store,85000,Eldoret,Rift Valley
+DUK-0505,2026-02-15,Mombasa,Keyboard,2,Premium,Store,3500,Mombasa,Coast
+DUK-0972,2026-02-15,Mombasa,Smartphone,2,Standard,Store,45000,Mombasa,Coast
+DUK-0511,2026-02-15,Mombasa,Tablet,5,Standard,Online,30000,Mombasa,Coast
+DUK-0142,2026-02-15,Nakuru,Monitor,2,Premium,Store,22000,Nakuru,Rift Valley
+DUK-0926,2026-02-15,Mombasa,Smartphone,2,Standard,Online,45000,Mombasa,Coast
+DUK-0520,2026-02-16,Mombasa,Headphones,2,Standard,Store,5000,Mombasa,Coast
+DUK-0247,2026-02-16,Nairobi,Monitor,3,Standard,Store,22000,Nairobi,Central
+DUK-0761,2026-02-16,Kisumu,Laptop,2,Standard,Store,85000,Kisumu,Western
+DUK-0264,2026-02-16,Kisumu,Monitor,5,Standard,Store,22000,Kisumu,Western
+DUK-0267,2026-02-16,Nairobi,Laptop,4,Standard,Online,85000,Nairobi,Central
+DUK-0139,2026-02-17,Eldoret,Keyboard,4,Standard,Online,3500,Eldoret,Rift Valley
+DUK-0027,2026-02-17,Nairobi,Tablet,3,Standard,Online,30000,Nairobi,Central
+DUK-0383,2026-02-17,Nairobi,Smartphone,2,Standard,Store,45000,Nairobi,Central
+DUK-0651,2026-02-17,Nairobi,Keyboard,3,Standard,Store,3500,Nairobi,Central
+DUK-0781,2026-02-17,Mombasa,Printer,3,Standard,Store,18000,Mombasa,Coast
+DUK-0819,2026-02-17,Nairobi,Smartphone,2,Premium,Store,45000,Nairobi,Central
+DUK-0184,2026-02-17,Nairobi,Laptop,3,Standard,Online,85000,Nairobi,Central
+DUK-0019,2026-02-18,Mombasa,Tablet,4,Standard,Store,30000,Mombasa,Coast
+DUK-0534,2026-02-18,Mombasa,Laptop,3,Standard,Store,85000,Mombasa,Coast
+DUK-0127,2026-02-18,Nairobi,Headphones,3,Standard,Online,5000,Nairobi,Central
+DUK-0388,2026-02-18,Mombasa,Mouse,1,Standard,Store,2000,Mombasa,Coast
+DUK-0567,2026-02-18,Nairobi,Mouse,5,Premium,Online,2000,Nairobi,Central
+DUK-0039,2026-02-19,Nairobi,Mouse,5,Standard,Online,2000,Nairobi,Central
+DUK-0931,2026-02-19,Kisumu,Keyboard,4,Standard,Store,3500,Kisumu,Western
+DUK-0391,2026-02-19,Nairobi,Tablet,2,Standard,Online,30000,Nairobi,Central
+DUK-0625,2026-02-20,Kisumu,Laptop,3,Standard,Online,85000,Kisumu,Western
+DUK-0989,2026-02-20,Kisumu,Monitor,3,Standard,Store,22000,Kisumu,Western
+DUK-0272,2026-02-20,Mombasa,Mouse,4,Premium,Store,2000,Mombasa,Coast
+DUK-0753,2026-02-20,Eldoret,Laptop,5,Premium,Online,85000,Eldoret,Rift Valley
+DUK-0495,2026-02-20,Nairobi,Monitor,1,Standard,Online,22000,Nairobi,Central
+DUK-0702,2026-02-20,Nairobi,Keyboard,5,Standard,Online,3500,Nairobi,Central
+DUK-0900,2026-02-20,Mombasa,Laptop,4,Standard,Store,85000,Mombasa,Coast
+DUK-0123,2026-02-21,Nairobi,Headphones,3,Premium,Online,5000,Nairobi,Central
+DUK-0838,2026-02-21,Mombasa,Keyboard,2,Standard,Store,3500,Mombasa,Coast
+DUK-0805,2026-02-21,Nairobi,Keyboard,2,Standard,Online,3500,Nairobi,Central
+DUK-0221,2026-02-21,Nairobi,Monitor,3,Standard,Online,22000,Nairobi,Central
+DUK-0181,2026-02-21,Mombasa,Mouse,2,Standard,Store,2000,Mombasa,Coast
+DUK-0072,2026-02-21,Mombasa,Monitor,1,Standard,Online,22000,Mombasa,Coast
+DUK-0846,2026-02-22,Eldoret,Tablet,3,Premium,Store,30000,Eldoret,Rift Valley
+DUK-0961,2026-02-22,Mombasa,Mouse,4,Premium,Online,2000,Mombasa,Coast
+DUK-0204,2026-02-22,Eldoret,Printer,3,Premium,Online,18000,Eldoret,Rift Valley
+DUK-0862,2026-02-22,Mombasa,Keyboard,3,Standard,Store,3500,Mombasa,Coast
+DUK-0342,2026-02-22,Mombasa,Tablet,3,Standard,Store,30000,Mombasa,Coast
+DUK-0401,2026-02-22,Nairobi,Tablet,3,Standard,Store,30000,Nairobi,Central
+DUK-0306,2026-02-22,Nakuru,Smartphone,1,Premium,Store,45000,Nakuru,Rift Valley
+DUK-0257,2026-02-22,Nairobi,Laptop,4,Premium,Online,85000,Nairobi,Central
+DUK-0664,2026-02-23,Kisumu,Laptop,4,Standard,Online,85000,Kisumu,Western
+DUK-0513,2026-02-23,Kisumu,Headphones,5,Standard,Store,5000,Kisumu,Western
+DUK-0603,2026-02-23,Nakuru,Tablet,3,Standard,Online,30000,Nakuru,Rift Valley
+DUK-0773,2026-02-23,Mombasa,Monitor,3,Premium,Online,22000,Mombasa,Coast
+DUK-0517,2026-02-23,Mombasa,Laptop,4,Premium,Store,85000,Mombasa,Coast
+DUK-0240,2026-02-23,Nairobi,Laptop,5,Standard,Online,85000,Nairobi,Central
+DUK-0924,2026-02-23,Nairobi,Laptop,1,Standard,Store,85000,Nairobi,Central
+DUK-0848,2026-02-23,Eldoret,Keyboard,1,Standard,Online,3500,Eldoret,Rift Valley
+DUK-0202,2026-02-24,Nairobi,Laptop,5,Standard,Store,85000,Nairobi,Central
+DUK-0476,2026-02-24,Kisumu,Smartphone,4,Standard,Store,45000,Kisumu,Western
+DUK-0691,2026-02-24,Nairobi,Keyboard,3,Standard,Store,3500,Nairobi,Central
+DUK-0461,2026-02-24,Eldoret,Mouse,2,Premium,Store,2000,Eldoret,Rift Valley
+DUK-0079,2026-02-25,Eldoret,Laptop,5,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0591,2026-02-25,Kisumu,Keyboard,3,Standard,Online,3500,Kisumu,Western
+DUK-0684,2026-02-25,Kisumu,Smartphone,2,Standard,Online,45000,Kisumu,Western
+DUK-0467,2026-02-25,Nairobi,Mouse,4,Standard,Store,2000,Nairobi,Central
+DUK-0231,2026-02-25,Kisumu,Mouse,3,Standard,Store,2000,Kisumu,Western
+DUK-0042,2026-02-25,Kisumu,Printer,1,Premium,Store,18000,Kisumu,Western
+DUK-0925,2026-02-25,Eldoret,Laptop,5,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0462,2026-02-26,Eldoret,Printer,4,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0351,2026-02-27,Mombasa,Printer,5,Standard,Store,18000,Mombasa,Coast
+DUK-0788,2026-02-27,Nairobi,Printer,2,Standard,Store,18000,Nairobi,Central
+DUK-0148,2026-02-27,Kisumu,Mouse,3,Standard,Store,2000,Kisumu,Western
+DUK-0991,2026-02-27,Nakuru,Keyboard,3,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0049,2026-02-28,Eldoret,Tablet,4,Standard,Online,30000,Eldoret,Rift Valley
+DUK-0648,2026-02-28,Nairobi,Tablet,2,Standard,Store,30000,Nairobi,Central
+DUK-0314,2026-02-28,Kisumu,Monitor,1,Standard,Store,22000,Kisumu,Western
+DUK-0536,2026-03-01,Nairobi,Tablet,4,Standard,Online,30000,Nairobi,Central
+DUK-0262,2026-03-01,Mombasa,Tablet,4,Standard,Store,30000,Mombasa,Coast
+DUK-0128,2026-03-01,Nairobi,Tablet,4,Standard,Online,30000,Nairobi,Central
+DUK-0842,2026-03-02,Nakuru,Laptop,5,Standard,Store,85000,Nakuru,Rift Valley
+DUK-0121,2026-03-02,Kisumu,Headphones,1,Premium,Online,5000,Kisumu,Western
+DUK-0024,2026-03-02,Eldoret,Keyboard,4,Standard,Store,3500,Eldoret,Rift Valley
+DUK-0579,2026-03-02,Nairobi,Headphones,1,Standard,Online,5000,Nairobi,Central
+DUK-0730,2026-03-02,Nairobi,Smartphone,2,Standard,Online,45000,Nairobi,Central
+DUK-0284,2026-03-02,Mombasa,Printer,1,Standard,Online,18000,Mombasa,Coast
+DUK-0880,2026-03-02,Nakuru,Printer,5,Standard,Online,18000,Nakuru,Rift Valley
+DUK-0592,2026-03-03,Kisumu,Monitor,3,Premium,Store,22000,Kisumu,Western
+DUK-0885,2026-03-03,Nakuru,Tablet,5,Standard,Store,30000,Nakuru,Rift Valley
+DUK-0061,2026-03-03,Nairobi,Tablet,2,Standard,Online,30000,Nairobi,Central
+DUK-0286,2026-03-04,Kisumu,Smartphone,1,Premium,Online,45000,Kisumu,Western
+DUK-0780,2026-03-04,Mombasa,Monitor,1,Standard,Store,22000,Mombasa,Coast
+DUK-0653,2026-03-04,Kisumu,Monitor,4,Standard,Online,22000,Kisumu,Western
+DUK-0254,2026-03-04,Eldoret,Mouse,1,Premium,Online,2000,Eldoret,Rift Valley
+DUK-0288,2026-03-05,Mombasa,Monitor,5,Standard,Store,22000,Mombasa,Coast
+DUK-0119,2026-03-05,Nakuru,Laptop,5,Premium,Store,85000,Nakuru,Rift Valley
+DUK-0758,2026-03-05,Nakuru,Keyboard,2,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0422,2026-03-05,Nakuru,Printer,4,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0692,2026-03-05,Kisumu,Printer,4,Standard,Online,18000,Kisumu,Western
+DUK-0305,2026-03-05,Nakuru,Mouse,1,Standard,Store,2000,Nakuru,Rift Valley
+DUK-0115,2026-03-05,Kisumu,Monitor,5,Standard,Store,22000,Kisumu,Western
+DUK-0279,2026-03-06,Eldoret,Laptop,5,Premium,Online,85000,Eldoret,Rift Valley
+DUK-0066,2026-03-06,Nairobi,Printer,1,Standard,Store,18000,Nairobi,Central
+DUK-0830,2026-03-06,Nakuru,Monitor,4,Premium,Online,22000,Nakuru,Rift Valley
+DUK-0394,2026-03-06,Nakuru,Laptop,1,Standard,Store,85000,Nakuru,Rift Valley
+DUK-0330,2026-03-06,Kisumu,Tablet,3,Premium,Store,30000,Kisumu,Western
+DUK-0587,2026-03-06,Kisumu,Laptop,4,Standard,Online,85000,Kisumu,Western
+DUK-0984,2026-03-06,Nairobi,Monitor,5,Premium,Store,22000,Nairobi,Central
+DUK-0660,2026-03-07,Nairobi,Tablet,4,Premium,Online,30000,Nairobi,Central
+DUK-0232,2026-03-07,Nairobi,Smartphone,5,Premium,Store,45000,Nairobi,Central
+DUK-0877,2026-03-07,Eldoret,Laptop,1,Standard,Store,85000,Eldoret,Rift Valley
+DUK-0065,2026-03-08,Eldoret,Smartphone,1,Standard,Online,45000,Eldoret,Rift Valley
+DUK-0594,2026-03-08,Eldoret,Laptop,3,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0662,2026-03-08,Nakuru,Headphones,3,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0516,2026-03-08,Nairobi,Laptop,2,Standard,Online,85000,Nairobi,Central
+DUK-0500,2026-03-08,Nairobi,Laptop,4,Standard,Store,85000,Nairobi,Central
+DUK-0307,2026-03-09,Mombasa,Smartphone,2,Premium,Online,45000,Mombasa,Coast
+DUK-0708,2026-03-09,Nakuru,Laptop,3,Standard,Online,85000,Nakuru,Rift Valley
+DUK-0652,2026-03-09,Nairobi,Headphones,4,Standard,Online,5000,Nairobi,Central
+DUK-0399,2026-03-09,Nairobi,Mouse,4,Standard,Online,2000,Nairobi,Central
+DUK-0144,2026-03-09,Eldoret,Headphones,3,Premium,Store,5000,Eldoret,Rift Valley
+DUK-0074,2026-03-09,Nairobi,Printer,1,Standard,Online,18000,Nairobi,Central
+DUK-0022,2026-03-10,Nairobi,Headphones,4,Premium,Store,5000,Nairobi,Central
+DUK-0460,2026-03-10,Eldoret,Mouse,4,Premium,Online,2000,Eldoret,Rift Valley
+DUK-0748,2026-03-10,Eldoret,Laptop,2,Premium,Online,85000,Eldoret,Rift Valley
+DUK-0621,2026-03-10,Nairobi,Monitor,3,Standard,Store,22000,Nairobi,Central
+DUK-0155,2026-03-10,Mombasa,Mouse,1,Standard,Online,2000,Mombasa,Coast
+DUK-0988,2026-03-10,Eldoret,Keyboard,4,Premium,Store,3500,Eldoret,Rift Valley
+DUK-0368,2026-03-10,Eldoret,Laptop,5,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0170,2026-03-10,Nairobi,Mouse,5,Standard,Online,2000,Nairobi,Central
+DUK-0114,2026-03-10,Nakuru,Mouse,1,Premium,Online,2000,Nakuru,Rift Valley
+DUK-0791,2026-03-10,Kisumu,Mouse,4,Standard,Store,2000,Kisumu,Western
+DUK-0078,2026-03-11,Mombasa,Monitor,5,Standard,Store,22000,Mombasa,Coast
+DUK-0292,2026-03-11,Mombasa,Mouse,1,Standard,Online,2000,Mombasa,Coast
+DUK-0130,2026-03-11,Nakuru,Headphones,1,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0329,2026-03-11,Eldoret,Keyboard,2,Standard,Online,3500,Eldoret,Rift Valley
+DUK-0249,2026-03-11,Kisumu,Keyboard,2,Premium,Store,3500,Kisumu,Western
+DUK-0858,2026-03-11,Nairobi,Headphones,2,Standard,Online,5000,Nairobi,Central
+DUK-0341,2026-03-12,Kisumu,Monitor,2,Standard,Store,22000,Kisumu,Western
+DUK-0646,2026-03-12,Nairobi,Monitor,2,Standard,Store,22000,Nairobi,Central
+DUK-0120,2026-03-12,Eldoret,Laptop,3,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0233,2026-03-12,Nakuru,Tablet,3,Standard,Online,30000,Nakuru,Rift Valley
+DUK-0510,2026-03-12,Nakuru,Laptop,1,Premium,Online,85000,Nakuru,Rift Valley
+DUK-0668,2026-03-12,Mombasa,Monitor,2,Standard,Store,22000,Mombasa,Coast
+DUK-0032,2026-03-12,Nairobi,Keyboard,5,Standard,Online,3500,Nairobi,Central
+DUK-0303,2026-03-12,Mombasa,Printer,1,Premium,Store,18000,Mombasa,Coast
+DUK-0726,2026-03-12,Mombasa,Laptop,4,Premium,Store,85000,Mombasa,Coast
+DUK-0161,2026-03-12,Mombasa,Smartphone,4,Standard,Store,45000,Mombasa,Coast
+DUK-0712,2026-03-12,Kisumu,Headphones,5,Standard,Store,5000,Kisumu,Western
+DUK-0488,2026-03-12,Eldoret,Smartphone,3,Standard,Store,45000,Eldoret,Rift Valley
+DUK-0710,2026-03-12,Nairobi,Monitor,2,Standard,Store,22000,Nairobi,Central
+DUK-0963,2026-03-13,Kisumu,Mouse,4,Standard,Store,2000,Kisumu,Western
+DUK-0732,2026-03-13,Mombasa,Mouse,1,Standard,Store,2000,Mombasa,Coast
+DUK-0507,2026-03-13,Eldoret,Keyboard,2,Premium,Store,3500,Eldoret,Rift Valley
+DUK-0779,2026-03-13,Kisumu,Printer,1,Standard,Online,18000,Kisumu,Western
+DUK-0853,2026-03-14,Eldoret,Printer,1,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0109,2026-03-14,Eldoret,Tablet,1,Standard,Online,30000,Eldoret,Rift Valley
+DUK-0906,2026-03-14,Eldoret,Printer,5,Premium,Store,18000,Eldoret,Rift Valley
+DUK-0576,2026-03-14,Eldoret,Laptop,3,Premium,Store,85000,Eldoret,Rift Valley
+DUK-0481,2026-03-14,Nairobi,Headphones,1,Standard,Store,5000,Nairobi,Central
+DUK-0663,2026-03-15,Nairobi,Keyboard,2,Standard,Online,3500,Nairobi,Central
+DUK-0044,2026-03-15,Nairobi,Monitor,2,Standard,Store,22000,Nairobi,Central
+DUK-0558,2026-03-15,Eldoret,Printer,1,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0833,2026-03-15,Kisumu,Laptop,5,Premium,Store,85000,Kisumu,Western
+DUK-0871,2026-03-16,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0273,2026-03-16,Eldoret,Keyboard,2,Standard,Store,3500,Eldoret,Rift Valley
+DUK-0986,2026-03-16,Nakuru,Keyboard,4,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0613,2026-03-17,Eldoret,Smartphone,2,Premium,Online,45000,Eldoret,Rift Valley
+DUK-0575,2026-03-17,Nairobi,Smartphone,5,Standard,Online,45000,Nairobi,Central
+DUK-0430,2026-03-17,Nakuru,Smartphone,5,Premium,Store,45000,Nakuru,Rift Valley
+DUK-0052,2026-03-17,Nakuru,Monitor,3,Standard,Store,22000,Nakuru,Rift Valley
+DUK-0323,2026-03-17,Eldoret,Tablet,2,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0950,2026-03-17,Nairobi,Printer,4,Premium,Store,18000,Nairobi,Central
+DUK-0943,2026-03-18,Kisumu,Printer,1,Premium,Online,18000,Kisumu,Western
+DUK-0722,2026-03-18,Kisumu,Headphones,4,Standard,Online,5000,Kisumu,Western
+DUK-0332,2026-03-18,Nairobi,Laptop,3,Premium,Online,85000,Nairobi,Central
+DUK-0152,2026-03-19,Kisumu,Headphones,2,Standard,Store,5000,Kisumu,Western
+DUK-0751,2026-03-19,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0005,2026-03-19,Nakuru,Keyboard,2,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0004,2026-03-19,Mombasa,Monitor,1,Premium,Online,22000,Mombasa,Coast
+DUK-0933,2026-03-19,Eldoret,Tablet,4,Premium,Online,30000,Eldoret,Rift Valley
+DUK-0494,2026-03-19,Mombasa,Keyboard,2,Standard,Online,3500,Mombasa,Coast
+DUK-0344,2026-03-19,Mombasa,Laptop,5,Standard,Store,85000,Mombasa,Coast
+DUK-0590,2026-03-19,Kisumu,Laptop,2,Premium,Online,85000,Kisumu,Western
+DUK-0214,2026-03-19,Nairobi,Monitor,3,Standard,Online,22000,Nairobi,Central
+DUK-0347,2026-03-19,Mombasa,Keyboard,4,Standard,Store,3500,Mombasa,Coast
+DUK-0070,2026-03-20,Nairobi,Printer,2,Premium,Online,18000,Nairobi,Central
+DUK-0774,2026-03-20,Nairobi,Smartphone,1,Standard,Online,45000,Nairobi,Central
+DUK-0870,2026-03-20,Mombasa,Mouse,1,Standard,Store,2000,Mombasa,Coast
+DUK-0547,2026-03-20,Mombasa,Smartphone,5,Standard,Store,45000,Mombasa,Coast
+DUK-0218,2026-03-20,Mombasa,Monitor,3,Standard,Online,22000,Mombasa,Coast
+DUK-0958,2026-03-20,Nairobi,Mouse,2,Standard,Online,2000,Nairobi,Central
+DUK-0051,2026-03-21,Kisumu,Laptop,5,Standard,Online,85000,Kisumu,Western
+DUK-0596,2026-03-21,Nakuru,Smartphone,1,Standard,Online,45000,Nakuru,Rift Valley
+DUK-0553,2026-03-21,Eldoret,Monitor,1,Standard,Online,22000,Eldoret,Rift Valley
+DUK-0209,2026-03-21,Eldoret,Laptop,3,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0186,2026-03-21,Nakuru,Tablet,5,Standard,Store,30000,Nakuru,Rift Valley
+DUK-0932,2026-03-21,Kisumu,Smartphone,5,Premium,Online,45000,Kisumu,Western
+DUK-0471,2026-03-22,Eldoret,Mouse,5,Standard,Store,2000,Eldoret,Rift Valley
+DUK-0637,2026-03-22,Nakuru,Keyboard,5,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0809,2026-03-23,Mombasa,Smartphone,1,Standard,Store,45000,Mombasa,Coast
+DUK-0808,2026-03-23,Nairobi,Laptop,4,Premium,Store,85000,Nairobi,Central
+DUK-0752,2026-03-23,Nairobi,Headphones,2,Standard,Online,5000,Nairobi,Central
+DUK-0554,2026-03-23,Nairobi,Keyboard,1,Standard,Store,3500,Nairobi,Central
+DUK-0287,2026-03-23,Eldoret,Printer,1,Standard,Store,18000,Eldoret,Rift Valley
+DUK-0714,2026-03-24,Nakuru,Keyboard,4,Premium,Store,3500,Nakuru,Rift Valley
+DUK-0977,2026-03-24,Nairobi,Monitor,5,Standard,Store,22000,Nairobi,Central
+DUK-0277,2026-03-24,Mombasa,Keyboard,2,Standard,Store,3500,Mombasa,Coast
+DUK-0996,2026-03-24,Nakuru,Printer,5,Standard,Online,18000,Nakuru,Rift Valley
+DUK-0147,2026-03-24,Kisumu,Keyboard,1,Standard,Store,3500,Kisumu,Western
+DUK-0365,2026-03-24,Mombasa,Monitor,3,Standard,Store,22000,Mombasa,Coast
+DUK-0093,2026-03-25,Mombasa,Printer,1,Premium,Online,18000,Mombasa,Coast
+DUK-0762,2026-03-25,Mombasa,Mouse,5,Standard,Online,2000,Mombasa,Coast
+DUK-0719,2026-03-25,Nakuru,Printer,5,Standard,Online,18000,Nakuru,Rift Valley
+DUK-0954,2026-03-25,Nairobi,Laptop,2,Standard,Online,85000,Nairobi,Central
+DUK-0514,2026-03-26,Nakuru,Mouse,1,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0934,2026-03-26,Kisumu,Mouse,2,Standard,Store,2000,Kisumu,Western
+DUK-0171,2026-03-26,Mombasa,Smartphone,2,Standard,Store,45000,Mombasa,Coast
+DUK-0878,2026-03-27,Kisumu,Headphones,2,Standard,Online,5000,Kisumu,Western
+DUK-0091,2026-03-27,Mombasa,Printer,2,Premium,Store,18000,Mombasa,Coast
+DUK-0236,2026-03-27,Kisumu,Tablet,2,Premium,Online,30000,Kisumu,Western
+DUK-0792,2026-03-27,Eldoret,Tablet,5,Premium,Store,30000,Eldoret,Rift Valley
+DUK-0197,2026-03-27,Eldoret,Monitor,5,Standard,Online,22000,Eldoret,Rift Valley
+DUK-0798,2026-03-28,Nairobi,Smartphone,1,Standard,Online,45000,Nairobi,Central
+DUK-0659,2026-03-28,Kisumu,Headphones,3,Standard,Online,5000,Kisumu,Western
+DUK-0496,2026-03-28,Nairobi,Mouse,3,Standard,Store,2000,Nairobi,Central
+DUK-0902,2026-03-28,Nakuru,Tablet,1,Standard,Online,30000,Nakuru,Rift Valley
+DUK-0169,2026-03-28,Eldoret,Laptop,4,Standard,Store,85000,Eldoret,Rift Valley
+DUK-0350,2026-03-29,Nakuru,Mouse,3,Premium,Online,2000,Nakuru,Rift Valley
+DUK-0474,2026-03-29,Nairobi,Tablet,2,Standard,Store,30000,Nairobi,Central
+DUK-0502,2026-03-29,Mombasa,Laptop,2,Premium,Store,85000,Mombasa,Coast
+DUK-0316,2026-03-29,Mombasa,Smartphone,2,Standard,Online,45000,Mombasa,Coast
+DUK-0658,2026-03-29,Nakuru,Keyboard,3,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0745,2026-03-29,Nairobi,Monitor,4,Standard,Store,22000,Nairobi,Central
+DUK-0335,2026-03-29,Kisumu,Monitor,2,Standard,Online,22000,Kisumu,Western
+DUK-0731,2026-03-29,Nakuru,Mouse,2,Standard,Store,2000,Nakuru,Rift Valley
+DUK-0910,2026-03-29,Nakuru,Keyboard,3,Premium,Store,3500,Nakuru,Rift Valley
+DUK-0345,2026-03-30,Nakuru,Headphones,3,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0546,2026-03-30,Kisumu,Printer,2,Standard,Online,18000,Kisumu,Western
+DUK-0844,2026-03-30,Nairobi,Printer,3,Premium,Store,18000,Nairobi,Central
+DUK-0376,2026-03-30,Mombasa,Laptop,4,Standard,Store,85000,Mombasa,Coast
+DUK-0258,2026-03-30,Nairobi,Smartphone,1,Standard,Online,45000,Nairobi,Central
+DUK-0360,2026-03-30,Kisumu,Tablet,2,Standard,Store,30000,Kisumu,Western
+DUK-0785,2026-03-30,Nairobi,Monitor,5,Premium,Online,22000,Nairobi,Central
+DUK-0176,2026-03-31,Nakuru,Keyboard,1,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0801,2026-03-31,Mombasa,Headphones,4,Premium,Online,5000,Mombasa,Coast
+DUK-0568,2026-03-31,Nakuru,Smartphone,1,Standard,Online,45000,Nakuru,Rift Valley
+DUK-0112,2026-03-31,Mombasa,Smartphone,1,Standard,Online,45000,Mombasa,Coast
+DUK-0312,2026-03-31,Nairobi,Mouse,2,Standard,Online,2000,Nairobi,Central
+DUK-0077,2026-03-31,Kisumu,Mouse,4,Standard,Store,2000,Kisumu,Western
+DUK-0174,2026-03-31,Eldoret,Tablet,4,Standard,Online,30000,Eldoret,Rift Valley
+DUK-0483,2026-03-31,Nakuru,Keyboard,3,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0665,2026-04-01,Mombasa,Smartphone,3,Standard,Online,45000,Mombasa,Coast
+DUK-0295,2026-04-01,Nakuru,Tablet,3,Standard,Online,30000,Nakuru,Rift Valley
+DUK-0750,2026-04-01,Kisumu,Printer,2,Standard,Store,18000,Kisumu,Western
+DUK-0311,2026-04-01,Mombasa,Tablet,3,Standard,Online,30000,Mombasa,Coast
+DUK-0939,2026-04-01,Nairobi,Printer,3,Standard,Online,18000,Nairobi,Central
+DUK-0419,2026-04-01,Nakuru,Laptop,4,Premium,Online,85000,Nakuru,Rift Valley
+DUK-0614,2026-04-01,Nairobi,Printer,2,Premium,Online,18000,Nairobi,Central
+DUK-0492,2026-04-02,Nairobi,Monitor,2,Standard,Online,22000,Nairobi,Central
+DUK-0433,2026-04-02,Eldoret,Keyboard,1,Premium,Online,3500,Eldoret,Rift Valley
+DUK-0436,2026-04-02,Mombasa,Keyboard,1,Standard,Online,3500,Mombasa,Coast
+DUK-0414,2026-04-02,Eldoret,Headphones,3,Standard,Store,5000,Eldoret,Rift Valley
+DUK-0998,2026-04-02,Kisumu,Mouse,4,Standard,Online,2000,Kisumu,Western
+DUK-0227,2026-04-02,Nairobi,Monitor,3,Standard,Online,22000,Nairobi,Central
+DUK-0101,2026-04-03,Nairobi,Tablet,4,Premium,Online,30000,Nairobi,Central
+DUK-0655,2026-04-03,Mombasa,Tablet,2,Premium,Store,30000,Mombasa,Coast
+DUK-0133,2026-04-04,Nairobi,Tablet,4,Standard,Online,30000,Nairobi,Central
+DUK-0727,2026-04-04,Kisumu,Laptop,2,Standard,Store,85000,Kisumu,Western
+DUK-0304,2026-04-04,Nairobi,Laptop,3,Standard,Store,85000,Nairobi,Central
+DUK-0205,2026-04-04,Eldoret,Headphones,5,Standard,Store,5000,Eldoret,Rift Valley
+DUK-0225,2026-04-04,Kisumu,Printer,3,Standard,Online,18000,Kisumu,Western
+DUK-0275,2026-04-04,Nairobi,Monitor,3,Premium,Store,22000,Nairobi,Central
+DUK-0693,2026-04-05,Nakuru,Printer,5,Premium,Store,18000,Nakuru,Rift Valley
+DUK-0533,2026-04-05,Nairobi,Headphones,1,Standard,Online,5000,Nairobi,Central
+DUK-0310,2026-04-05,Nairobi,Tablet,5,Standard,Store,30000,Nairobi,Central
+DUK-0246,2026-04-05,Mombasa,Smartphone,3,Premium,Online,45000,Mombasa,Coast
+DUK-0432,2026-04-05,Nakuru,Laptop,4,Standard,Online,85000,Nakuru,Rift Valley
+DUK-0669,2026-04-06,Nairobi,Smartphone,4,Premium,Online,45000,Nairobi,Central
+DUK-0356,2026-04-06,Nakuru,Printer,3,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0098,2026-04-06,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0626,2026-04-06,Mombasa,Printer,1,Standard,Store,18000,Mombasa,Coast
+DUK-0031,2026-04-06,Mombasa,Tablet,1,Premium,Store,30000,Mombasa,Coast
+DUK-0478,2026-04-06,Nairobi,Headphones,1,Standard,Online,5000,Nairobi,Central
+DUK-0642,2026-04-06,Nakuru,Headphones,2,Premium,Store,5000,Nakuru,Rift Valley
+DUK-0153,2026-04-07,Kisumu,Smartphone,4,Standard,Online,45000,Kisumu,Western
+DUK-0014,2026-04-07,Nakuru,Laptop,4,Standard,Online,85000,Nakuru,Rift Valley
+DUK-0526,2026-04-07,Nairobi,Smartphone,2,Standard,Online,45000,Nairobi,Central
+DUK-0760,2026-04-07,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0427,2026-04-07,Eldoret,Monitor,1,Standard,Store,22000,Eldoret,Rift Valley
+DUK-0485,2026-04-07,Kisumu,Tablet,4,Premium,Online,30000,Kisumu,Western
+DUK-0706,2026-04-08,Nairobi,Printer,1,Standard,Online,18000,Nairobi,Central
+DUK-0585,2026-04-08,Nairobi,Monitor,3,Premium,Store,22000,Nairobi,Central
+DUK-0096,2026-04-08,Nakuru,Smartphone,1,Standard,Store,45000,Nakuru,Rift Valley
+DUK-0113,2026-04-08,Nairobi,Tablet,2,Standard,Online,30000,Nairobi,Central
+DUK-0786,2026-04-09,Kisumu,Laptop,5,Standard,Online,85000,Kisumu,Western
+DUK-0322,2026-04-09,Eldoret,Printer,1,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0103,2026-04-09,Eldoret,Headphones,2,Premium,Online,5000,Eldoret,Rift Valley
+DUK-0859,2026-04-09,Nairobi,Laptop,4,Premium,Store,85000,Nairobi,Central
+DUK-0525,2026-04-09,Nakuru,Printer,5,Premium,Online,18000,Nakuru,Rift Valley
+DUK-0905,2026-04-10,Mombasa,Monitor,1,Standard,Online,22000,Mombasa,Coast
+DUK-0458,2026-04-10,Kisumu,Tablet,3,Standard,Online,30000,Kisumu,Western
+DUK-0829,2026-04-10,Mombasa,Mouse,3,Premium,Store,2000,Mombasa,Coast
+DUK-0372,2026-04-10,Nairobi,Headphones,4,Standard,Online,5000,Nairobi,Central
+DUK-0377,2026-04-10,Nakuru,Monitor,4,Standard,Online,22000,Nakuru,Rift Valley
+DUK-0874,2026-04-10,Nakuru,Mouse,3,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0628,2026-04-11,Kisumu,Keyboard,5,Premium,Store,3500,Kisumu,Western
+DUK-0361,2026-04-11,Nairobi,Mouse,3,Standard,Online,2000,Nairobi,Central
+DUK-0738,2026-04-11,Mombasa,Keyboard,5,Standard,Online,3500,Mombasa,Coast
+DUK-0048,2026-04-12,Mombasa,Keyboard,1,Premium,Store,3500,Mombasa,Coast
+DUK-0443,2026-04-12,Nakuru,Mouse,5,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0469,2026-04-12,Mombasa,Laptop,2,Standard,Online,85000,Mombasa,Coast
+DUK-0438,2026-04-13,Eldoret,Keyboard,4,Premium,Online,3500,Eldoret,Rift Valley
+DUK-0743,2026-04-13,Nakuru,Printer,1,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0188,2026-04-14,Mombasa,Printer,4,Standard,Online,18000,Mombasa,Coast
+DUK-0082,2026-04-14,Nairobi,Keyboard,2,Standard,Online,3500,Nairobi,Central
+DUK-0643,2026-04-15,Mombasa,Printer,1,Standard,Online,18000,Mombasa,Coast
+DUK-0946,2026-04-15,Mombasa,Keyboard,1,Standard,Online,3500,Mombasa,Coast
+DUK-0482,2026-04-15,Nakuru,Mouse,1,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0588,2026-04-15,Nairobi,Smartphone,2,Standard,Online,45000,Nairobi,Central
+DUK-0200,2026-04-15,Nairobi,Laptop,1,Premium,Store,85000,Nairobi,Central
+DUK-0167,2026-04-15,Nairobi,Mouse,2,Standard,Store,2000,Nairobi,Central
+DUK-0867,2026-04-15,Kisumu,Keyboard,5,Standard,Online,3500,Kisumu,Western
+DUK-0769,2026-04-16,Mombasa,Headphones,5,Standard,Online,5000,Mombasa,Coast
+DUK-0386,2026-04-16,Nairobi,Mouse,2,Standard,Online,2000,Nairobi,Central
+DUK-0729,2026-04-16,Kisumu,Headphones,5,Standard,Online,5000,Kisumu,Western
+DUK-0976,2026-04-16,Kisumu,Printer,4,Premium,Store,18000,Kisumu,Western
+DUK-0283,2026-04-16,Kisumu,Smartphone,5,Standard,Online,45000,Kisumu,Western
+DUK-0030,2026-04-16,Kisumu,Headphones,3,Standard,Store,5000,Kisumu,Western
+DUK-0353,2026-04-16,Mombasa,Mouse,4,Premium,Online,2000,Mombasa,Coast
+DUK-0985,2026-04-17,Mombasa,Smartphone,5,Standard,Online,45000,Mombasa,Coast
+DUK-0135,2026-04-17,Mombasa,Monitor,3,Standard,Store,22000,Mombasa,Coast
+DUK-0297,2026-04-17,Nairobi,Mouse,1,Standard,Online,2000,Nairobi,Central
+DUK-0357,2026-04-17,Nairobi,Headphones,2,Standard,Online,5000,Nairobi,Central
+DUK-0847,2026-04-17,Mombasa,Mouse,2,Standard,Store,2000,Mombasa,Coast
+DUK-0466,2026-04-17,Kisumu,Printer,3,Standard,Online,18000,Kisumu,Western
+DUK-0319,2026-04-18,Mombasa,Headphones,5,Standard,Online,5000,Mombasa,Coast
+DUK-0911,2026-04-18,Kisumu,Headphones,1,Premium,Online,5000,Kisumu,Western
+DUK-0518,2026-04-18,Kisumu,Headphones,4,Standard,Online,5000,Kisumu,Western
+DUK-0413,2026-04-18,Eldoret,Printer,5,Premium,Online,18000,Eldoret,Rift Valley
+DUK-0887,2026-04-18,Eldoret,Monitor,5,Premium,Online,22000,Eldoret,Rift Valley
+DUK-0107,2026-04-19,Nairobi,Tablet,2,Standard,Store,30000,Nairobi,Central
+DUK-0716,2026-04-19,Kisumu,Printer,2,Premium,Online,18000,Kisumu,Western
+DUK-0164,2026-04-19,Nakuru,Laptop,3,Premium,Store,85000,Nakuru,Rift Valley
+DUK-0083,2026-04-19,Mombasa,Laptop,5,Standard,Store,85000,Mombasa,Coast
+DUK-0807,2026-04-19,Kisumu,Smartphone,3,Standard,Online,45000,Kisumu,Western
+DUK-0407,2026-04-19,Mombasa,Printer,4,Standard,Online,18000,Mombasa,Coast
+DUK-0435,2026-04-20,Eldoret,Printer,2,Premium,Online,18000,Eldoret,Rift Valley
+DUK-0754,2026-04-20,Eldoret,Tablet,3,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0437,2026-04-20,Kisumu,Headphones,4,Standard,Online,5000,Kisumu,Western
+DUK-0217,2026-04-20,Nakuru,Headphones,4,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0047,2026-04-20,Nairobi,Tablet,4,Premium,Store,30000,Nairobi,Central
+DUK-0289,2026-04-21,Nairobi,Smartphone,4,Premium,Online,45000,Nairobi,Central
+DUK-0253,2026-04-21,Eldoret,Mouse,3,Standard,Store,2000,Eldoret,Rift Valley
+DUK-0199,2026-04-21,Mombasa,Keyboard,1,Standard,Online,3500,Mombasa,Coast
+DUK-0580,2026-04-21,Nairobi,Monitor,1,Standard,Online,22000,Nairobi,Central
+DUK-0835,2026-04-21,Eldoret,Smartphone,1,Standard,Online,45000,Eldoret,Rift Valley
+DUK-0771,2026-04-21,Mombasa,Smartphone,4,Standard,Online,45000,Mombasa,Coast
+DUK-0849,2026-04-22,Mombasa,Laptop,2,Standard,Online,85000,Mombasa,Coast
+DUK-0016,2026-04-22,Nairobi,Headphones,2,Premium,Online,5000,Nairobi,Central
+DUK-0589,2026-04-22,Kisumu,Mouse,4,Standard,Store,2000,Kisumu,Western
+DUK-0226,2026-04-22,Nakuru,Mouse,2,Standard,Store,2000,Nakuru,Rift Valley
+DUK-0654,2026-04-22,Nairobi,Tablet,3,Standard,Store,30000,Nairobi,Central
+DUK-0803,2026-04-22,Kisumu,Printer,2,Standard,Store,18000,Kisumu,Western
+DUK-0953,2026-04-22,Mombasa,Keyboard,1,Standard,Online,3500,Mombasa,Coast
+DUK-0997,2026-04-22,Kisumu,Monitor,2,Standard,Online,22000,Kisumu,Western
+DUK-0638,2026-04-23,Nairobi,Headphones,3,Standard,Online,5000,Nairobi,Central
+DUK-0023,2026-04-23,Nakuru,Laptop,2,Standard,Online,85000,Nakuru,Rift Valley
+DUK-0073,2026-04-23,Nairobi,Laptop,2,Standard,Store,85000,Nairobi,Central
+DUK-0841,2026-04-23,Nakuru,Smartphone,2,Standard,Store,45000,Nakuru,Rift Valley
+DUK-0704,2026-04-23,Mombasa,Printer,1,Standard,Online,18000,Mombasa,Coast
+DUK-0893,2026-04-23,Nairobi,Mouse,5,Standard,Online,2000,Nairobi,Central
+DUK-0527,2026-04-23,Mombasa,Laptop,1,Premium,Store,85000,Mombasa,Coast
+DUK-0132,2026-04-23,Kisumu,Laptop,3,Standard,Store,85000,Kisumu,Western
+DUK-0434,2026-04-24,Nakuru,Headphones,5,Standard,Store,5000,Nakuru,Rift Valley
+DUK-0960,2026-04-24,Nairobi,Keyboard,4,Standard,Online,3500,Nairobi,Central
+DUK-0793,2026-04-24,Mombasa,Laptop,5,Premium,Online,85000,Mombasa,Coast
+DUK-0705,2026-04-24,Mombasa,Keyboard,2,Standard,Online,3500,Mombasa,Coast
+DUK-0239,2026-04-24,Nairobi,Tablet,5,Standard,Online,30000,Nairobi,Central
+DUK-0090,2026-04-24,Kisumu,Keyboard,1,Premium,Online,3500,Kisumu,Western
+DUK-0251,2026-04-25,Mombasa,Monitor,5,Standard,Store,22000,Mombasa,Coast
+DUK-0815,2026-04-25,Kisumu,Keyboard,2,Standard,Online,3500,Kisumu,Western
+DUK-0352,2026-04-25,Kisumu,Mouse,5,Standard,Online,2000,Kisumu,Western
+DUK-0223,2026-04-25,Mombasa,Headphones,5,Standard,Store,5000,Mombasa,Coast
+DUK-0723,2026-04-25,Mombasa,Monitor,4,Standard,Online,22000,Mombasa,Coast
+DUK-0703,2026-04-26,Nairobi,Smartphone,5,Standard,Online,45000,Nairobi,Central
+DUK-0834,2026-04-26,Mombasa,Laptop,2,Standard,Online,85000,Mombasa,Coast
+DUK-0981,2026-04-26,Mombasa,Smartphone,2,Standard,Store,45000,Mombasa,Coast
+DUK-0740,2026-04-26,Nakuru,Monitor,2,Standard,Online,22000,Nakuru,Rift Valley
+DUK-0504,2026-04-26,Nairobi,Tablet,3,Standard,Store,30000,Nairobi,Central
+DUK-0252,2026-04-26,Nairobi,Printer,2,Standard,Store,18000,Nairobi,Central
+DUK-0802,2026-04-26,Nakuru,Smartphone,4,Standard,Store,45000,Nakuru,Rift Valley
+DUK-0556,2026-04-26,Mombasa,Monitor,2,Standard,Online,22000,Mombasa,Coast
+DUK-0701,2026-04-26,Nairobi,Headphones,1,Standard,Online,5000,Nairobi,Central
+DUK-0598,2026-04-26,Nairobi,Smartphone,1,Premium,Online,45000,Nairobi,Central
+DUK-0007,2026-04-27,Eldoret,Laptop,3,Premium,Online,85000,Eldoret,Rift Valley
+DUK-0855,2026-04-27,Nakuru,Keyboard,5,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0395,2026-04-27,Nairobi,Headphones,1,Standard,Online,5000,Nairobi,Central
+DUK-0026,2026-04-27,Mombasa,Smartphone,5,Standard,Store,45000,Mombasa,Coast
+DUK-0143,2026-04-27,Eldoret,Tablet,1,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0463,2026-04-27,Nakuru,Smartphone,5,Standard,Store,45000,Nakuru,Rift Valley
+DUK-0470,2026-04-27,Mombasa,Smartphone,3,Premium,Store,45000,Mombasa,Coast
+DUK-0354,2026-04-28,Mombasa,Headphones,5,Standard,Store,5000,Mombasa,Coast
+DUK-0800,2026-04-28,Nakuru,Laptop,3,Premium,Store,85000,Nakuru,Rift Valley
+DUK-0276,2026-04-28,Mombasa,Monitor,5,Premium,Online,22000,Mombasa,Coast
+DUK-0122,2026-04-28,Mombasa,Mouse,2,Standard,Online,2000,Mombasa,Coast
+DUK-0444,2026-04-28,Nakuru,Mouse,1,Premium,Online,2000,Nakuru,Rift Valley
+DUK-0545,2026-04-29,Nairobi,Mouse,5,Premium,Store,2000,Nairobi,Central
+DUK-0728,2026-04-29,Kisumu,Mouse,3,Standard,Online,2000,Kisumu,Western
+DUK-0150,2026-04-29,Nakuru,Tablet,4,Standard,Store,30000,Nakuru,Rift Valley
+DUK-0915,2026-04-29,Nairobi,Monitor,2,Standard,Store,22000,Nairobi,Central
+DUK-0442,2026-04-30,Nairobi,Monitor,1,Premium,Online,22000,Nairobi,Central
+DUK-0208,2026-04-30,Eldoret,Laptop,1,Standard,Store,85000,Eldoret,Rift Valley
+DUK-0572,2026-04-30,Nairobi,Printer,4,Premium,Store,18000,Nairobi,Central
+DUK-0451,2026-04-30,Nakuru,Headphones,2,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0331,2026-05-01,Eldoret,Mouse,4,Standard,Store,2000,Eldoret,Rift Valley
+DUK-0196,2026-05-01,Nakuru,Keyboard,3,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0431,2026-05-01,Nairobi,Headphones,5,Premium,Store,5000,Nairobi,Central
+DUK-0190,2026-05-01,Kisumu,Laptop,5,Premium,Online,85000,Kisumu,Western
+DUK-0265,2026-05-01,Nakuru,Headphones,5,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0159,2026-05-01,Nairobi,Mouse,4,Standard,Store,2000,Nairobi,Central
+DUK-0795,2026-05-02,Mombasa,Laptop,5,Standard,Store,85000,Mombasa,Coast
+DUK-0539,2026-05-02,Eldoret,Printer,2,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0285,2026-05-03,Eldoret,Mouse,2,Premium,Store,2000,Eldoret,Rift Valley
+DUK-0602,2026-05-03,Nakuru,Tablet,5,Standard,Store,30000,Nakuru,Rift Valley
+DUK-0299,2026-05-03,Kisumu,Mouse,3,Standard,Store,2000,Kisumu,Western
+DUK-0987,2026-05-03,Nairobi,Keyboard,5,Standard,Online,3500,Nairobi,Central
+DUK-0118,2026-05-03,Kisumu,Tablet,4,Premium,Store,30000,Kisumu,Western
+DUK-0688,2026-05-03,Mombasa,Laptop,2,Standard,Online,85000,Mombasa,Coast
+DUK-0473,2026-05-03,Nairobi,Mouse,2,Standard,Store,2000,Nairobi,Central
+DUK-0498,2026-05-03,Kisumu,Mouse,3,Standard,Online,2000,Kisumu,Western
+DUK-0630,2026-05-03,Nairobi,Printer,1,Standard,Store,18000,Nairobi,Central
+DUK-0245,2026-05-03,Kisumu,Tablet,3,Standard,Store,30000,Kisumu,Western
+DUK-0301,2026-05-04,Nairobi,Tablet,5,Standard,Online,30000,Nairobi,Central
+DUK-0969,2026-05-04,Mombasa,Smartphone,1,Standard,Online,45000,Mombasa,Coast
+DUK-0131,2026-05-04,Kisumu,Tablet,1,Standard,Store,30000,Kisumu,Western
+DUK-0610,2026-05-05,Nairobi,Tablet,4,Standard,Online,30000,Nairobi,Central
+DUK-0624,2026-05-05,Nairobi,Headphones,5,Standard,Online,5000,Nairobi,Central
+DUK-0640,2026-05-05,Nakuru,Tablet,5,Standard,Store,30000,Nakuru,Rift Valley
+DUK-0105,2026-05-05,Nairobi,Tablet,1,Standard,Store,30000,Nairobi,Central
+DUK-0571,2026-05-06,Mombasa,Headphones,5,Standard,Store,5000,Mombasa,Coast
+DUK-0506,2026-05-06,Eldoret,Smartphone,2,Standard,Online,45000,Eldoret,Rift Valley
+DUK-0535,2026-05-06,Nakuru,Headphones,2,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0373,2026-05-06,Nairobi,Tablet,5,Premium,Online,30000,Nairobi,Central
+DUK-0820,2026-05-06,Eldoret,Tablet,3,Premium,Online,30000,Eldoret,Rift Valley
+DUK-0270,2026-05-06,Mombasa,Mouse,1,Premium,Store,2000,Mombasa,Coast
+DUK-0928,2026-05-07,Nakuru,Headphones,1,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0327,2026-05-07,Nairobi,Laptop,1,Premium,Online,85000,Nairobi,Central
+DUK-0629,2026-05-07,Nairobi,Headphones,4,Premium,Online,5000,Nairobi,Central
+DUK-0560,2026-05-07,Nairobi,Keyboard,1,Premium,Store,3500,Nairobi,Central
+DUK-0385,2026-05-07,Nakuru,Tablet,2,Standard,Online,30000,Nakuru,Rift Valley
+DUK-0993,2026-05-08,Mombasa,Keyboard,5,Standard,Store,3500,Mombasa,Coast
+DUK-0362,2026-05-08,Nakuru,Printer,5,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0983,2026-05-08,Mombasa,Printer,3,Standard,Online,18000,Mombasa,Coast
+DUK-0343,2026-05-08,Nairobi,Keyboard,2,Premium,Online,3500,Nairobi,Central
+DUK-0956,2026-05-08,Kisumu,Printer,3,Standard,Store,18000,Kisumu,Western
+DUK-0108,2026-05-08,Eldoret,Mouse,5,Standard,Online,2000,Eldoret,Rift Valley
+DUK-0789,2026-05-08,Nairobi,Printer,5,Standard,Store,18000,Nairobi,Central
+DUK-0423,2026-05-08,Nairobi,Keyboard,3,Premium,Store,3500,Nairobi,Central
+DUK-0759,2026-05-09,Eldoret,Headphones,1,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0308,2026-05-09,Nairobi,Headphones,5,Standard,Online,5000,Nairobi,Central
+DUK-0503,2026-05-09,Nairobi,Headphones,2,Premium,Store,5000,Nairobi,Central
+DUK-0806,2026-05-09,Nairobi,Laptop,4,Premium,Store,85000,Nairobi,Central
+DUK-0617,2026-05-09,Kisumu,Keyboard,2,Premium,Store,3500,Kisumu,Western
+DUK-0317,2026-05-09,Nakuru,Keyboard,4,Standard,Store,3500,Nakuru,Rift Valley
+DUK-0418,2026-05-10,Nairobi,Smartphone,1,Premium,Online,45000,Nairobi,Central
+DUK-0582,2026-05-10,Nairobi,Monitor,4,Standard,Online,22000,Nairobi,Central
+DUK-0852,2026-05-10,Eldoret,Printer,5,Premium,Online,18000,Eldoret,Rift Valley
+DUK-0230,2026-05-10,Eldoret,Mouse,5,Standard,Online,2000,Eldoret,Rift Valley
+DUK-0149,2026-05-10,Mombasa,Laptop,3,Premium,Online,85000,Mombasa,Coast
+DUK-0746,2026-05-11,Nakuru,Laptop,5,Premium,Online,85000,Nakuru,Rift Valley
+DUK-0011,2026-05-11,Mombasa,Tablet,1,Standard,Store,30000,Mombasa,Coast
+DUK-0690,2026-05-11,Eldoret,Headphones,5,Standard,Store,5000,Eldoret,Rift Valley
+DUK-0555,2026-05-11,Nairobi,Headphones,4,Premium,Online,5000,Nairobi,Central
+DUK-0486,2026-05-11,Mombasa,Laptop,4,Standard,Online,85000,Mombasa,Coast
+DUK-0515,2026-05-11,Mombasa,Mouse,1,Premium,Online,2000,Mombasa,Coast
+DUK-0338,2026-05-12,Nakuru,Printer,5,Standard,Online,18000,Nakuru,Rift Valley
+DUK-0777,2026-05-12,Nairobi,Printer,3,Standard,Online,18000,Nairobi,Central
+DUK-0409,2026-05-12,Mombasa,Tablet,5,Standard,Online,30000,Mombasa,Coast
+DUK-0543,2026-05-13,Eldoret,Smartphone,1,Standard,Online,45000,Eldoret,Rift Valley
+DUK-0548,2026-05-13,Mombasa,Smartphone,1,Premium,Store,45000,Mombasa,Coast
+DUK-0099,2026-05-13,Nakuru,Headphones,3,Standard,Online,5000,Nakuru,Rift Valley
+DUK-0717,2026-05-13,Nairobi,Printer,2,Standard,Store,18000,Nairobi,Central
+DUK-0355,2026-05-13,Eldoret,Printer,3,Premium,Store,18000,Eldoret,Rift Valley
+DUK-0493,2026-05-14,Nairobi,Laptop,2,Premium,Store,85000,Nairobi,Central
+DUK-0982,2026-05-14,Nairobi,Laptop,2,Premium,Store,85000,Nairobi,Central
+DUK-0371,2026-05-14,Kisumu,Tablet,1,Premium,Store,30000,Kisumu,Western
+DUK-0622,2026-05-14,Eldoret,Laptop,5,Premium,Store,85000,Eldoret,Rift Valley
+DUK-0002,2026-05-15,Nairobi,Monitor,3,Premium,Online,22000,Nairobi,Central
+DUK-0948,2026-05-16,Eldoret,Laptop,1,Premium,Store,85000,Eldoret,Rift Valley
+DUK-0057,2026-05-16,Kisumu,Headphones,3,Premium,Online,5000,Kisumu,Western
+DUK-0957,2026-05-16,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0059,2026-05-16,Mombasa,Keyboard,2,Standard,Store,3500,Mombasa,Coast
+DUK-0397,2026-05-16,Nairobi,Smartphone,4,Standard,Store,45000,Nairobi,Central
+DUK-0015,2026-05-16,Nairobi,Printer,2,Standard,Store,18000,Nairobi,Central
+DUK-0826,2026-05-16,Mombasa,Tablet,1,Standard,Store,30000,Mombasa,Coast
+DUK-0964,2026-05-17,Mombasa,Smartphone,2,Standard,Store,45000,Mombasa,Coast
+DUK-0126,2026-05-17,Nairobi,Monitor,4,Standard,Online,22000,Nairobi,Central
+DUK-0334,2026-05-17,Eldoret,Printer,4,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0459,2026-05-17,Nakuru,Headphones,5,Premium,Online,5000,Nakuru,Rift Valley
+DUK-0445,2026-05-17,Kisumu,Keyboard,4,Standard,Online,3500,Kisumu,Western
+DUK-0810,2026-05-17,Nakuru,Mouse,3,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0428,2026-05-18,Nairobi,Mouse,4,Standard,Online,2000,Nairobi,Central
+DUK-0250,2026-05-18,Kisumu,Tablet,5,Premium,Store,30000,Kisumu,Western
+DUK-0124,2026-05-18,Mombasa,Tablet,1,Standard,Store,30000,Mombasa,Coast
+DUK-0425,2026-05-18,Mombasa,Smartphone,2,Premium,Online,45000,Mombasa,Coast
+DUK-0680,2026-05-18,Mombasa,Printer,4,Standard,Store,18000,Mombasa,Coast
+DUK-0037,2026-05-18,Mombasa,Printer,1,Standard,Store,18000,Mombasa,Coast
+DUK-0242,2026-05-19,Nairobi,Tablet,4,Standard,Store,30000,Nairobi,Central
+DUK-0876,2026-05-19,Nairobi,Mouse,3,Standard,Online,2000,Nairobi,Central
+DUK-0408,2026-05-19,Nairobi,Monitor,1,Premium,Store,22000,Nairobi,Central
+DUK-0381,2026-05-19,Mombasa,Smartphone,3,Premium,Online,45000,Mombasa,Coast
+DUK-0449,2026-05-19,Kisumu,Laptop,2,Standard,Online,85000,Kisumu,Western
+DUK-0192,2026-05-20,Mombasa,Headphones,3,Premium,Online,5000,Mombasa,Coast
+DUK-0484,2026-05-20,Mombasa,Mouse,2,Standard,Online,2000,Mombasa,Coast
+DUK-0940,2026-05-20,Mombasa,Tablet,1,Standard,Store,30000,Mombasa,Coast
+DUK-0053,2026-05-20,Eldoret,Smartphone,2,Standard,Online,45000,Eldoret,Rift Valley
+DUK-0524,2026-05-21,Nairobi,Smartphone,1,Premium,Store,45000,Nairobi,Central
+DUK-0538,2026-05-21,Nairobi,Printer,2,Premium,Online,18000,Nairobi,Central
+DUK-0671,2026-05-21,Kisumu,Printer,5,Standard,Store,18000,Kisumu,Western
+DUK-0237,2026-05-21,Kisumu,Smartphone,3,Standard,Online,45000,Kisumu,Western
+DUK-0922,2026-05-21,Eldoret,Keyboard,1,Standard,Online,3500,Eldoret,Rift Valley
+DUK-0396,2026-05-21,Mombasa,Laptop,4,Standard,Online,85000,Mombasa,Coast
+DUK-0574,2026-05-21,Nairobi,Laptop,3,Standard,Online,85000,Nairobi,Central
+DUK-0822,2026-05-21,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0055,2026-05-21,Nairobi,Keyboard,2,Standard,Store,3500,Nairobi,Central
+DUK-0183,2026-05-22,Eldoret,Mouse,3,Standard,Store,2000,Eldoret,Rift Valley
+DUK-0942,2026-05-22,Eldoret,Smartphone,1,Premium,Online,45000,Eldoret,Rift Valley
+DUK-0145,2026-05-22,Nairobi,Tablet,3,Standard,Online,30000,Nairobi,Central
+DUK-0884,2026-05-22,Nairobi,Printer,5,Premium,Online,18000,Nairobi,Central
+DUK-0168,2026-05-22,Eldoret,Keyboard,1,Premium,Store,3500,Eldoret,Rift Valley
+DUK-0831,2026-05-22,Nairobi,Tablet,2,Standard,Store,30000,Nairobi,Central
+DUK-0097,2026-05-23,Eldoret,Monitor,2,Standard,Online,22000,Eldoret,Rift Valley
+DUK-0193,2026-05-23,Eldoret,Tablet,1,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0952,2026-05-23,Nakuru,Laptop,4,Standard,Store,85000,Nakuru,Rift Valley
+DUK-0971,2026-05-23,Nakuru,Laptop,2,Standard,Online,85000,Nakuru,Rift Valley
+DUK-0597,2026-05-23,Nairobi,Keyboard,3,Standard,Online,3500,Nairobi,Central
+DUK-0067,2026-05-23,Eldoret,Monitor,5,Standard,Store,22000,Eldoret,Rift Valley
+DUK-0612,2026-05-23,Mombasa,Smartphone,1,Standard,Online,45000,Mombasa,Coast
+DUK-0667,2026-05-24,Mombasa,Keyboard,5,Standard,Online,3500,Mombasa,Coast
+DUK-0921,2026-05-24,Eldoret,Headphones,3,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0707,2026-05-24,Nairobi,Keyboard,1,Standard,Online,3500,Nairobi,Central
+DUK-0382,2026-05-24,Kisumu,Tablet,3,Standard,Online,30000,Kisumu,Western
+DUK-0794,2026-05-24,Nairobi,Smartphone,2,Premium,Online,45000,Nairobi,Central
+DUK-0618,2026-05-25,Nairobi,Tablet,1,Premium,Store,30000,Nairobi,Central
+DUK-0529,2026-05-25,Nakuru,Mouse,3,Standard,Store,2000,Nakuru,Rift Valley
+DUK-0601,2026-05-25,Nairobi,Keyboard,2,Standard,Store,3500,Nairobi,Central
+DUK-0864,2026-05-25,Mombasa,Monitor,2,Standard,Store,22000,Mombasa,Coast
+DUK-0724,2026-05-25,Nakuru,Keyboard,3,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0491,2026-05-26,Kisumu,Smartphone,2,Premium,Online,45000,Kisumu,Western
+DUK-0087,2026-05-26,Nairobi,Printer,1,Standard,Online,18000,Nairobi,Central
+DUK-0935,2026-05-26,Nakuru,Printer,4,Standard,Online,18000,Nakuru,Rift Valley
+DUK-0421,2026-05-26,Eldoret,Monitor,4,Standard,Store,22000,Eldoret,Rift Valley
+DUK-0875,2026-05-26,Nairobi,Tablet,5,Standard,Store,30000,Nairobi,Central
+DUK-0403,2026-05-26,Mombasa,Tablet,5,Standard,Online,30000,Mombasa,Coast
+DUK-0179,2026-05-26,Nairobi,Laptop,3,Standard,Store,85000,Nairobi,Central
+DUK-0268,2026-05-26,Nairobi,Tablet,1,Premium,Store,30000,Nairobi,Central
+DUK-0918,2026-05-26,Mombasa,Mouse,3,Standard,Store,2000,Mombasa,Coast
+DUK-0896,2026-05-26,Mombasa,Smartphone,5,Standard,Online,45000,Mombasa,Coast
+DUK-0818,2026-05-27,Eldoret,Printer,2,Standard,Store,18000,Eldoret,Rift Valley
+DUK-0544,2026-05-27,Nakuru,Headphones,1,Standard,Store,5000,Nakuru,Rift Valley
+DUK-0173,2026-05-27,Mombasa,Monitor,4,Premium,Store,22000,Mombasa,Coast
+DUK-0772,2026-05-27,Eldoret,Printer,4,Standard,Store,18000,Eldoret,Rift Valley
+DUK-0162,2026-05-28,Nakuru,Mouse,4,Standard,Store,2000,Nakuru,Rift Valley
+DUK-0512,2026-05-28,Mombasa,Monitor,5,Standard,Store,22000,Mombasa,Coast
+DUK-0375,2026-05-28,Nairobi,Printer,1,Standard,Store,18000,Nairobi,Central
+DUK-0675,2026-05-28,Eldoret,Printer,1,Standard,Store,18000,Eldoret,Rift Valley
+DUK-0172,2026-05-28,Mombasa,Headphones,5,Standard,Online,5000,Mombasa,Coast
+DUK-0965,2026-05-28,Mombasa,Tablet,5,Standard,Online,30000,Mombasa,Coast
+DUK-0857,2026-05-28,Nakuru,Mouse,3,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0290,2026-05-28,Nairobi,Laptop,3,Premium,Online,85000,Nairobi,Central
+DUK-0017,2026-05-29,Nairobi,Printer,3,Standard,Online,18000,Nairobi,Central
+DUK-0633,2026-05-29,Kisumu,Mouse,4,Standard,Online,2000,Kisumu,Western
+DUK-0029,2026-05-29,Kisumu,Mouse,2,Standard,Online,2000,Kisumu,Western
+DUK-0185,2026-05-29,Nakuru,Smartphone,3,Premium,Store,45000,Nakuru,Rift Valley
+DUK-0860,2026-05-29,Nairobi,Laptop,2,Standard,Online,85000,Nairobi,Central
+DUK-0206,2026-05-30,Kisumu,Keyboard,3,Standard,Online,3500,Kisumu,Western
+DUK-0938,2026-05-30,Nakuru,Mouse,5,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0593,2026-05-30,Kisumu,Monitor,4,Standard,Store,22000,Kisumu,Western
+DUK-0398,2026-05-30,Nairobi,Smartphone,2,Standard,Online,45000,Nairobi,Central
+DUK-0542,2026-05-30,Nairobi,Monitor,1,Standard,Online,22000,Nairobi,Central
+DUK-0623,2026-05-30,Nairobi,Keyboard,4,Standard,Online,3500,Nairobi,Central
+DUK-0566,2026-05-31,Kisumu,Smartphone,1,Standard,Store,45000,Kisumu,Western
+DUK-0447,2026-05-31,Mombasa,Tablet,3,Standard,Online,30000,Mombasa,Coast
+DUK-0339,2026-05-31,Eldoret,Smartphone,1,Premium,Store,45000,Eldoret,Rift Valley
+DUK-0194,2026-05-31,Eldoret,Headphones,5,Standard,Store,5000,Eldoret,Rift Valley
+DUK-0508,2026-05-31,Nairobi,Laptop,5,Standard,Online,85000,Nairobi,Central
+DUK-0298,2026-05-31,Nairobi,Headphones,3,Standard,Online,5000,Nairobi,Central
+DUK-0764,2026-05-31,Nairobi,Mouse,5,Premium,Store,2000,Nairobi,Central
+DUK-0879,2026-06-01,Kisumu,Smartphone,4,Standard,Store,45000,Kisumu,Western
+DUK-0426,2026-06-01,Mombasa,Printer,4,Premium,Store,18000,Mombasa,Coast
+DUK-0140,2026-06-01,Mombasa,Printer,2,Standard,Store,18000,Mombasa,Coast
+DUK-0294,2026-06-02,Nairobi,Laptop,1,Premium,Store,85000,Nairobi,Central
+DUK-0038,2026-06-02,Mombasa,Monitor,1,Premium,Online,22000,Mombasa,Coast
+DUK-0697,2026-06-02,Kisumu,Headphones,4,Standard,Online,5000,Kisumu,Western
+DUK-0578,2026-06-03,Nairobi,Smartphone,3,Standard,Online,45000,Nairobi,Central
+DUK-0631,2026-06-03,Kisumu,Smartphone,1,Standard,Online,45000,Kisumu,Western
+DUK-0244,2026-06-03,Nairobi,Tablet,4,Standard,Online,30000,Nairobi,Central
+DUK-0137,2026-06-03,Nakuru,Mouse,5,Premium,Store,2000,Nakuru,Rift Valley
+DUK-0166,2026-06-04,Nairobi,Headphones,2,Standard,Store,5000,Nairobi,Central
+DUK-0611,2026-06-04,Nairobi,Mouse,1,Standard,Online,2000,Nairobi,Central
+DUK-0564,2026-06-04,Nairobi,Laptop,2,Standard,Online,85000,Nairobi,Central
+DUK-0817,2026-06-04,Kisumu,Keyboard,4,Standard,Online,3500,Kisumu,Western
+DUK-0796,2026-06-04,Eldoret,Monitor,3,Premium,Online,22000,Eldoret,Rift Valley
+DUK-0489,2026-06-04,Eldoret,Headphones,1,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0280,2026-06-05,Nairobi,Keyboard,1,Standard,Store,3500,Nairobi,Central
+DUK-0550,2026-06-05,Mombasa,Printer,3,Standard,Online,18000,Mombasa,Coast
+DUK-0912,2026-06-05,Nairobi,Monitor,3,Premium,Online,22000,Nairobi,Central
+DUK-0715,2026-06-05,Nairobi,Smartphone,2,Premium,Store,45000,Nairobi,Central
+DUK-0689,2026-06-05,Nairobi,Monitor,4,Standard,Store,22000,Nairobi,Central
+DUK-0261,2026-06-05,Eldoret,Laptop,3,Standard,Store,85000,Eldoret,Rift Valley
+DUK-0177,2026-06-05,Mombasa,Monitor,2,Standard,Store,22000,Mombasa,Coast
+DUK-0213,2026-06-05,Mombasa,Tablet,4,Standard,Online,30000,Mombasa,Coast
+DUK-0790,2026-06-05,Nairobi,Monitor,1,Standard,Online,22000,Nairobi,Central
+DUK-0967,2026-06-05,Eldoret,Laptop,2,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0944,2026-06-06,Nakuru,Tablet,3,Premium,Store,30000,Nakuru,Rift Valley
+DUK-0683,2026-06-06,Nakuru,Monitor,5,Standard,Online,22000,Nakuru,Rift Valley
+DUK-0008,2026-06-06,Nairobi,Printer,3,Standard,Store,18000,Nairobi,Central
+DUK-0340,2026-06-06,Nairobi,Mouse,5,Standard,Online,2000,Nairobi,Central
+DUK-0532,2026-06-06,Nairobi,Keyboard,2,Standard,Online,3500,Nairobi,Central
+DUK-0720,2026-06-07,Kisumu,Smartphone,2,Standard,Store,45000,Kisumu,Western
+DUK-0374,2026-06-07,Kisumu,Tablet,5,Standard,Store,30000,Kisumu,Western
+DUK-0797,2026-06-07,Nakuru,Smartphone,3,Standard,Online,45000,Nakuru,Rift Valley
+DUK-0054,2026-06-07,Nairobi,Laptop,1,Premium,Online,85000,Nairobi,Central
+DUK-0562,2026-06-07,Mombasa,Headphones,3,Standard,Online,5000,Mombasa,Coast
+DUK-0028,2026-06-07,Mombasa,Laptop,1,Standard,Store,85000,Mombasa,Coast
+DUK-0615,2026-06-08,Nairobi,Headphones,3,Premium,Online,5000,Nairobi,Central
+DUK-0370,2026-06-08,Nakuru,Keyboard,5,Premium,Store,3500,Nakuru,Rift Valley
+DUK-0384,2026-06-08,Nairobi,Keyboard,5,Premium,Store,3500,Nairobi,Central
+DUK-0872,2026-06-09,Kisumu,Smartphone,5,Standard,Online,45000,Kisumu,Western
+DUK-0041,2026-06-09,Mombasa,Mouse,2,Standard,Online,2000,Mombasa,Coast
+DUK-0125,2026-06-10,Nakuru,Smartphone,2,Premium,Store,45000,Nakuru,Rift Valley
+DUK-0071,2026-06-10,Nairobi,Printer,3,Standard,Store,18000,Nairobi,Central
+DUK-0980,2026-06-10,Nakuru,Mouse,1,Standard,Online,2000,Nakuru,Rift Valley
+DUK-0650,2026-06-10,Eldoret,Keyboard,5,Standard,Online,3500,Eldoret,Rift Valley
+DUK-0528,2026-06-11,Nairobi,Tablet,4,Premium,Online,30000,Nairobi,Central
+DUK-0274,2026-06-11,Eldoret,Tablet,5,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0018,2026-06-11,Kisumu,Mouse,3,Standard,Store,2000,Kisumu,Western
+DUK-0158,2026-06-11,Nairobi,Mouse,4,Standard,Online,2000,Nairobi,Central
+DUK-0563,2026-06-11,Nairobi,Smartphone,1,Standard,Online,45000,Nairobi,Central
+DUK-0609,2026-06-11,Nairobi,Keyboard,2,Standard,Online,3500,Nairobi,Central
+DUK-0064,2026-06-11,Nakuru,Laptop,1,Premium,Online,85000,Nakuru,Rift Valley
+DUK-0666,2026-06-11,Eldoret,Mouse,3,Standard,Store,2000,Eldoret,Rift Valley
+DUK-0069,2026-06-11,Kisumu,Smartphone,2,Premium,Online,45000,Kisumu,Western
+DUK-0674,2026-06-12,Nairobi,Monitor,1,Standard,Online,22000,Nairobi,Central
+DUK-0882,2026-06-12,Nairobi,Smartphone,3,Premium,Online,45000,Nairobi,Central
+DUK-0259,2026-06-12,Nairobi,Printer,5,Premium,Online,18000,Nairobi,Central
+DUK-0088,2026-06-12,Nairobi,Smartphone,2,Standard,Online,45000,Nairobi,Central
+DUK-0215,2026-06-13,Mombasa,Laptop,5,Standard,Store,85000,Mombasa,Coast
+DUK-0315,2026-06-13,Nairobi,Laptop,2,Standard,Online,85000,Nairobi,Central
+DUK-0570,2026-06-13,Nakuru,Printer,4,Standard,Online,18000,Nakuru,Rift Valley
+DUK-0346,2026-06-13,Kisumu,Laptop,2,Standard,Online,85000,Kisumu,Western
+DUK-0092,2026-06-13,Eldoret,Laptop,5,Standard,Online,85000,Eldoret,Rift Valley
+DUK-0549,2026-06-13,Kisumu,Printer,5,Standard,Store,18000,Kisumu,Western
+DUK-0584,2026-06-14,Nairobi,Mouse,3,Premium,Online,2000,Nairobi,Central
+DUK-0062,2026-06-14,Mombasa,Tablet,2,Standard,Online,30000,Mombasa,Coast
+DUK-0873,2026-06-14,Kisumu,Smartphone,4,Standard,Store,45000,Kisumu,Western
+DUK-0700,2026-06-14,Kisumu,Monitor,5,Standard,Online,22000,Kisumu,Western
+DUK-0768,2026-06-15,Nairobi,Printer,4,Standard,Online,18000,Nairobi,Central
+DUK-0080,2026-06-15,Kisumu,Headphones,2,Premium,Store,5000,Kisumu,Western
+DUK-0827,2026-06-15,Mombasa,Mouse,5,Standard,Online,2000,Mombasa,Coast
+DUK-0559,2026-06-15,Nairobi,Headphones,4,Standard,Online,5000,Nairobi,Central
+DUK-0694,2026-06-15,Nairobi,Headphones,2,Premium,Online,5000,Nairobi,Central
+DUK-0670,2026-06-15,Eldoret,Tablet,3,Standard,Store,30000,Eldoret,Rift Valley
+DUK-0404,2026-06-15,Mombasa,Tablet,1,Standard,Online,30000,Mombasa,Coast
+DUK-0636,2026-06-15,Nairobi,Keyboard,5,Standard,Online,3500,Nairobi,Central
+DUK-0238,2026-06-15,Kisumu,Mouse,2,Premium,Online,2000,Kisumu,Western
+DUK-0747,2026-06-15,Nairobi,Monitor,4,Premium,Online,22000,Nairobi,Central
+DUK-0036,2026-06-15,Nakuru,Printer,1,Standard,Online,18000,Nakuru,Rift Valley
+DUK-0138,2026-06-16,Mombasa,Keyboard,3,Standard,Store,3500,Mombasa,Coast
+DUK-0605,2026-06-16,Nakuru,Monitor,1,Standard,Store,22000,Nakuru,Rift Valley
+DUK-0783,2026-06-16,Mombasa,Smartphone,4,Premium,Store,45000,Mombasa,Coast
+DUK-0163,2026-06-16,Nairobi,Keyboard,4,Standard,Store,3500,Nairobi,Central
+DUK-0620,2026-06-16,Nairobi,Monitor,5,Standard,Online,22000,Nairobi,Central
+DUK-0765,2026-06-17,Nairobi,Headphones,5,Standard,Online,5000,Nairobi,Central
+DUK-0634,2026-06-17,Eldoret,Smartphone,2,Standard,Store,45000,Eldoret,Rift Valley
+DUK-0937,2026-06-17,Nairobi,Laptop,2,Standard,Online,85000,Nairobi,Central
+DUK-0296,2026-06-17,Mombasa,Keyboard,3,Premium,Store,3500,Mombasa,Coast
+DUK-0129,2026-06-17,Eldoret,Headphones,3,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0454,2026-06-17,Nairobi,Headphones,2,Standard,Store,5000,Nairobi,Central
+DUK-0455,2026-06-18,Mombasa,Tablet,1,Premium,Store,30000,Mombasa,Coast
+DUK-0627,2026-06-18,Nairobi,Smartphone,2,Standard,Store,45000,Nairobi,Central
+DUK-0778,2026-06-18,Nakuru,Mouse,4,Standard,Store,2000,Nakuru,Rift Valley
+DUK-0229,2026-06-19,Mombasa,Keyboard,5,Premium,Store,3500,Mombasa,Coast
+DUK-0647,2026-06-19,Nairobi,Monitor,3,Standard,Online,22000,Nairobi,Central
+DUK-0569,2026-06-19,Nairobi,Smartphone,4,Premium,Store,45000,Nairobi,Central
+DUK-0522,2026-06-20,Mombasa,Keyboard,1,Premium,Store,3500,Mombasa,Coast
+DUK-0282,2026-06-20,Eldoret,Tablet,1,Standard,Online,30000,Eldoret,Rift Valley
+DUK-0863,2026-06-20,Nairobi,Monitor,4,Standard,Online,22000,Nairobi,Central
+DUK-0400,2026-06-20,Mombasa,Laptop,2,Standard,Store,85000,Mombasa,Coast
+DUK-0698,2026-06-20,Nairobi,Tablet,3,Standard,Store,30000,Nairobi,Central
+DUK-0111,2026-06-21,Nairobi,Monitor,3,Premium,Store,22000,Nairobi,Central
+DUK-0619,2026-06-21,Eldoret,Keyboard,3,Standard,Online,3500,Eldoret,Rift Valley
+DUK-0337,2026-06-22,Eldoret,Tablet,2,Standard,Online,30000,Eldoret,Rift Valley
+DUK-0321,2026-06-22,Kisumu,Monitor,1,Standard,Store,22000,Kisumu,Western
+DUK-0883,2026-06-23,Mombasa,Monitor,4,Premium,Online,22000,Mombasa,Coast
+DUK-0901,2026-06-24,Nakuru,Keyboard,4,Standard,Online,3500,Nakuru,Rift Valley
+DUK-0966,2026-06-24,Mombasa,Smartphone,2,Standard,Online,45000,Mombasa,Coast
+DUK-0182,2026-06-24,Eldoret,Printer,2,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0930,2026-06-24,Nairobi,Laptop,5,Standard,Store,85000,Nairobi,Central
+DUK-0686,2026-06-24,Kisumu,Tablet,2,Standard,Store,30000,Kisumu,Western
+DUK-0811,2026-06-24,Kisumu,Headphones,4,Standard,Store,5000,Kisumu,Western
+DUK-0477,2026-06-25,Eldoret,Headphones,2,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0595,2026-06-25,Mombasa,Smartphone,2,Standard,Store,45000,Mombasa,Coast
+DUK-0919,2026-06-25,Nairobi,Monitor,4,Standard,Online,22000,Nairobi,Central
+DUK-0604,2026-06-25,Mombasa,Keyboard,2,Standard,Store,3500,Mombasa,Coast
+DUK-0843,2026-06-25,Mombasa,Tablet,5,Premium,Store,30000,Mombasa,Coast
+DUK-0210,2026-06-26,Nairobi,Smartphone,4,Premium,Online,45000,Nairobi,Central
+DUK-0084,2026-06-26,Eldoret,Headphones,3,Standard,Online,5000,Eldoret,Rift Valley
+DUK-0180,2026-06-26,Kisumu,Keyboard,5,Standard,Online,3500,Kisumu,Western
+DUK-0639,2026-06-26,Nakuru,Tablet,4,Standard,Online,30000,Nakuru,Rift Valley
+DUK-0359,2026-06-26,Eldoret,Headphones,3,Premium,Online,5000,Eldoret,Rift Valley
+DUK-0929,2026-06-26,Nairobi,Headphones,2,Standard,Online,5000,Nairobi,Central
+DUK-0816,2026-06-26,Nakuru,Smartphone,2,Standard,Online,45000,Nakuru,Rift Valley
+DUK-0757,2026-06-27,Eldoret,Monitor,5,Standard,Online,22000,Eldoret,Rift Valley
+DUK-0832,2026-06-27,Nakuru,Monitor,3,Standard,Online,22000,Nakuru,Rift Valley
+DUK-0540,2026-06-27,Nairobi,Keyboard,1,Standard,Online,3500,Nairobi,Central
+DUK-0551,2026-06-28,Kisumu,Headphones,3,Standard,Online,5000,Kisumu,Western
+DUK-0936,2026-06-28,Mombasa,Headphones,5,Standard,Online,5000,Mombasa,Coast
+DUK-0219,2026-06-28,Mombasa,Monitor,1,Premium,Store,22000,Mombasa,Coast
+DUK-0134,2026-06-28,Eldoret,Laptop,3,Standard,Store,85000,Eldoret,Rift Valley
+DUK-0725,2026-06-28,Eldoret,Printer,4,Standard,Online,18000,Eldoret,Rift Valley
+DUK-0600,2026-06-28,Kisumu,Smartphone,5,Premium,Online,45000,Kisumu,Western
+DUK-0607,2026-06-28,Eldoret,Smartphone,4,Premium,Online,45000,Eldoret,Rift Valley
+DUK-0742,2026-06-28,Nakuru,Printer,3,Standard,Store,18000,Nakuru,Rift Valley
+DUK-0894,2026-06-28,Eldoret,Laptop,1,Standard,Store,85000,Eldoret,Rift Valley
+DUK-0146,2026-06-29,Nairobi,Headphones,2,Standard,Store,5000,Nairobi,Central
+DUK-0009,2026-06-29,Mombasa,Headphones,1,Standard,Online,5000,Mombasa,Coast
+DUK-0320,2026-06-29,Nairobi,Monitor,2,Premium,Online,22000,Nairobi,Central
+DUK-0799,2026-06-29,Nairobi,Mouse,3,Standard,Store,2000,Nairobi,Central
+DUK-0241,2026-06-30,Kisumu,Tablet,3,Standard,Store,30000,Kisumu,Western
+DUK-0850,2026-06-30,Nairobi,Headphones,5,Premium,Online,5000,Nairobi,Central
+DUK-0682,2026-06-30,Nairobi,Mouse,5,Standard,Store,2000,Nairobi,Central
+DUK-0608,2026-06-30,Kisumu,Mouse,1,Standard,Online,2000,Kisumu,Western
+DUK-0309,2026-06-30,Nakuru,Tablet,2,Premium,Online,30000,Nakuru,Rift Valley
+DUK-0235,2026-06-30,Nakuru,Monitor,5,Standard,Online,22000,Nakuru,Rift Valley
+DUK-0521,2026-06-30,Mombasa,Mouse,1,Standard,Online,2000,Mombasa,Coast
